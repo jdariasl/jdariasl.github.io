@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ">my Google Scholar profile</a>.
 
+2022
+-----
+
+- J. A. Arango-Sánchez, **J.D. Arias-Londoño** <a href="https://arxiv.org/abs/2205.13657" target="_blank">An enhanced Conv-TasNet model for speech separation using a speaker distance-based loss function</a>. arXiv preprint arXiv:2205.13657. 2022.
+
+- G.E. Melo-Acosta, F. Duitama-Muñoz, **J.D. Arias-Londoño** <a href="https://arxiv.org/abs/2210.04310" target="_blank">An Instance Selection Algorithm for Big Data in High imbalanced datasets based on LSH</a>. arXiv preprint arXiv:2210.04310. 2022.
+
 2021
 -----
 
@@ -25,7 +32,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - **J.D. Arias-Londoño**, J.A. Gómez-García, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/8917580" target="_blank">Multimodal and multi-output deep learning architectures for the automatic assessment of voice quality using the GRB scale</a>. IEEE Journal of Selected Topics in Signal Processing, vol 20, no. 2, pp 413 - 422, 2020.
 
-- A. M. Sabogal-Guáqueta, **J.D. Arias-Londoño**, J.A. Gutierrez-Vargas, D. Sepulveda-Falla, M. Glatzel, C.A. Villegas-Lanau, G.P. Cardona-Gómez. <a href="https://www.sciencedirect.com/science/article/pii/S0925443920301423" target="_blank">Common disbalance in the brain parenchyma of dementias: Phospholipid profile analysis between CADASIL and sporadic Alzheimer's disease</a>.  BBA - Molecular Basis of Disease, vol. 1866, no. 1, 165797, 2020. [link]
+- A. M. Sabogal-Guáqueta, **J.D. Arias-Londoño**, J.A. Gutierrez-Vargas, D. Sepulveda-Falla, M. Glatzel, C.A. Villegas-Lanau, G.P. Cardona-Gómez. <a href="https://www.sciencedirect.com/science/article/pii/S0925443920301423" target="_blank">Common disbalance in the brain parenchyma of dementias: Phospholipid profile analysis between CADASIL and sporadic Alzheimer's disease</a>.  BBA - Molecular Basis of Disease, vol. 1866, no. 1, 165797, 2020.
 
 - A. Santana-Velásquez, J. Freddy-Duitama and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/9247889" target="_blank">Automatic classification of Diagnosis-Related Groups using ANN and XGBoost models</a>. 3rd IEEE Colombian Conference on Applications in Computational Intelligence - COLCACI 2020.
 
