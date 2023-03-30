@@ -7,12 +7,17 @@ author_profile: true
 
 You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ">my Google Scholar profile</a>.
 
+2023
+-----
+
+- M. Bejani, E. Luque-Buzo, A. Burlaka-Petrash, J.A. Gómez-García, **J.D. Arias- Londoño**, F. Grandas-Pérez, J. Grajal, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10086500" target="_blank">Baseline wander removal applied to smooth pursuit eye movements from parkinsonian patients</a> IEEE Access, early access, 2023.
+
 2022
 -----
 
-- J. A. Arango-Sánchez, **J.D. Arias-Londoño** <a href="https://arxiv.org/abs/2205.13657" target="_blank">An enhanced Conv-TasNet model for speech separation using a speaker distance-based loss function</a>. arXiv preprint arXiv:2205.13657. 2022.
+- J. A. Arango-Sánchez, **J.D. Arias-Londoño**. <a href="https://arxiv.org/abs/2205.13657" target="_blank">An enhanced Conv-TasNet model for speech separation using a speaker distance-based loss function</a>. arXiv preprint arXiv:2205.13657. 2022.
 
-- G.E. Melo-Acosta, F. Duitama-Muñoz, **J.D. Arias-Londoño** <a href="https://arxiv.org/abs/2210.04310" target="_blank">An Instance Selection Algorithm for Big Data in High imbalanced datasets based on LSH</a>. arXiv preprint arXiv:2210.04310. 2022.
+- G.E. Melo-Acosta, F. Duitama-Muñoz, **J.D. Arias-Londoño**. <a href="https://arxiv.org/abs/2210.04310" target="_blank">An Instance Selection Algorithm for Big Data in High imbalanced datasets based on LSH</a>. arXiv preprint arXiv:2210.04310. 2022.
 
 2021
 -----
