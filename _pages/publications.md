@@ -10,7 +10,11 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2023
 -----
 
-- M. Bejani, E. Luque-Buzo, A. Burlaka-Petrash, J.A. Gómez-García, **J.D. Arias- Londoño**, F. Grandas-Pérez, J. Grajal, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10086500" target="_blank">Baseline wander removal applied to smooth pursuit eye movements from parkinsonian patients</a> IEEE Access, early access, 2023.
+- **J.D. Arias- Londoño**, A. Moure-Prado, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2075-4418/13/8/1381" target="_blank">Automatic identification of lung opacities due to COVID-19 from chest X-Ray images. Focussing the attention on the lungs</a>. Diagnostics, vol. 13, 1381, 2023.
+
+- M. Bejani, E. Luque-Buzo, A. Burlaka-Petrash, J.A. Gómez-García, **J.D. Arias- Londoño**, F. Grandas-Pérez, J. Grajal, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10086500" target="_blank">Baseline wander removal applied to smooth pursuit eye movements from parkinsonian patients</a>. IEEE Access, vol. 11, 2023.
+
+- C. Bustamante, G. Castrillón, **J.D. Arias- Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-031-29783-0_2" target="_blank">Classification of Focused Perturbations Using Time-Variant Functional Connectivity with rs-fmri</a>. In: Orjuela-Cañón, A.D., Lopez, J., Arias-Londoño, J.D., Figueroa-García, J.C. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 1746. Springer, Cham., 2023.
 
 2022
 -----
