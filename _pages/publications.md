@@ -10,6 +10,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2023
 -----
 
+- **J.D. Arias- Londoño**, J.I. Godino-Llorente. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414659" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Preprint available at SSNR, 2023.
+
 - **J.D. Arias- Londoño**, A. Moure-Prado, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2075-4418/13/8/1381" target="_blank">Automatic identification of lung opacities due to COVID-19 from chest X-Ray images. Focussing the attention on the lungs</a>. Diagnostics, vol. 13, 1381, 2023.
 
 - M. Bejani, E. Luque-Buzo, A. Burlaka-Petrash, J.A. Gómez-García, **J.D. Arias- Londoño**, F. Grandas-Pérez, J. Grajal, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10086500" target="_blank">Baseline wander removal applied to smooth pursuit eye movements from parkinsonian patients</a>. IEEE Access, vol. 11, 2023.
