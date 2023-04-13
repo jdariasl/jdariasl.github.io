@@ -37,9 +37,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2020
 ----
 
-- **J.D. Arias-Londoño**, J.A. Gómez-García, L. Moro-Velázquez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/9293268" target="_blank">Artificial Intelligence applied to chest X-Ray images for the automatic detection of COVID-19. A thoughtful evaluation approach</a>. IEEE Access, vol. 8, 2020.
+- **J.D. Arias-Londoño**, J.A. Gómez-García, L. Moro-Velázquez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/9293268" target="_blank">Artificial Intelligence applied to chest X-Ray images for the automatic detection of COVID-19. A thoughtful evaluation approach</a>. IEEE Access, vol. 8, 2020. [<a href="https://github.com/jdariasl/COVIDNET" target="_blank">GitHub</a>]
 
-- J. Villar-Vesga, J. Henao-Restrepo, D. C Voshart, D. Aguillón, A. Villegas, D. Castaño, **J.D. Arias-Londoño**, I.S. Zuhorn, L. Ribosvki, L. Barazzuol, G. P. Cardona-Gómez, R. A. Posada-Duque. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2020.587989/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Aging_Neuroscience&id=587989" target="_blank">Differential profile of systemic extracellular vesicles from sporadic and familiar Alzheimer’s disease leads to neuroglial and endothelial cell degeneration</a>. Frontiers in Aging Neuroscience. 12:587989. 2020. [Open access]
+- J. Villar-Vesga, J. Henao-Restrepo, D. C Voshart, D. Aguillón, A. Villegas, D. Castaño, **J.D. Arias-Londoño**, I.S. Zuhorn, L. Ribosvki, L. Barazzuol, G. P. Cardona-Gómez, R. A. Posada-Duque. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2020.587989/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Aging_Neuroscience&id=587989" target="_blank">Differential profile of systemic extracellular vesicles from sporadic and familiar Alzheimer’s disease leads to neuroglial and endothelial cell degeneration</a>. Frontiers in Aging Neuroscience. 12:587989. 2020.
 
 - **J.D. Arias-Londoño**, J.A. Gómez-García, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/8917580" target="_blank">Multimodal and multi-output deep learning architectures for the automatic assessment of voice quality using the GRB scale</a>. IEEE Journal of Selected Topics in Signal Processing, vol 20, no. 2, pp 413 - 422, 2020.
 
@@ -102,7 +102,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2015
 ----
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.mdpi.com/1099-4300/17/6/3595" target="_blank">Entropies from Markov models as complexity measures of embedded attractors</a>. Entropy, vol. 17, no. 6, pp 3595-3620, 2015.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.mdpi.com/1099-4300/17/6/3595" target="_blank">Entropies from Markov models as complexity measures of embedded attractors</a>. Entropy, vol. 17, no. 6, pp 3595-3620, 2015.[<a href="https://github.com/jdariasl/ME" target="_blank">GitHub</a>]
 
 - J.R. Orozco-Arroyave, F. Hönig, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla and E. Nöth. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.12106" target="_blank">Spectral and cepstral analyzes for Parkinson's disease detection in Spanish vowels and words</a>.  Expert Systems, vol. 32, no. 6, pp 688-697, 2015.
 
