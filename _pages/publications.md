@@ -10,6 +10,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2023
 -----
 
+- F.A. Bedoya-Guzmán, M. Pacheco-Herrero, I.D. Salomon-Cruz, A.M. Barrera-Sandoval, J.A. Gutierrez Vargas, J.G.  Villamil-Ortiz, C.A. Villegas Lanau, **J.D. Arias- Londoño**, E. Area.Gomez, G.P. Cardona-Gomez. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2023.1194203/full" target="_blank">BACE1 and SCD1 are associated with neurodegeneration</a>. Front. Aging Neurosci. 15:1194203, 2023. 
+
 - **J.D. Arias- Londoño**, J.I. Godino-Llorente. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414659" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Preprint available at SSNR, 2023.
 
 - **J.D. Arias- Londoño**, A. Moure-Prado, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2075-4418/13/8/1381" target="_blank">Automatic identification of lung opacities due to COVID-19 from chest X-Ray images. Focussing the attention on the lungs</a>. Diagnostics, vol. 13, 1381, 2023.
