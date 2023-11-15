@@ -5,34 +5,39 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- [Optimisation Techniques for Big Data Analysis](https://jdariasl.github.io/OTBD/intro.html)\
+Posgradute course\
+Universidad Politécncia de Madrid, Dpt. of Signals, Systems and Radiocommunications\
+Fall 2023
+
 - [Fundamentals of Deep Learning](https://rramosp.github.io/2021.deeplearning/intro.html)\
 Posgradute course\
-Universidad de Antioquia, Dpto. of Systems Engineering and Computer Science\
+Universidad de Antioquia, Dpt. of Systems Engineering and Computer Science\
 Every semestrer since 2018
 
 - [Introduction to Machine Learning](https://jdariasl.github.io/ML_2020/intro.html)\
 Undergraduate course\
-Universidad de Antioquia, Dpto. of Systems Engineering and Computer Science\
+Universidad de Antioquia, Dpt. of Systems Engineering and Computer Science\
 Every semestrer since 2014
 
 - Probabilistic Machine Learning\
 Posgradute course\
-Universidad de Antioquia, Dpto. of Systems Engineering and Computer Science\
+Universidad de Antioquia, Dpt. of Systems Engineering and Computer Science\
 2014
 
 - Discrete-event systems simulation\
 Undergraduate course\
-Universidad de Antioquia, Dpto. of Systems Engineering and Computer Science\
+Universidad de Antioquia, Dpt. of Systems Engineering and Computer Science\
 2012-2014
 
 - Digital Signal Processing\
 Undergraduate course\
-Universidad Antonio Nariño, Dpto. of Electronic and Biomedical Engineering\
+Universidad Antonio Nariño, Dpt. of Electronic and Biomedical Engineering\
 2011
 
 - Introduction to Digital Electronics\
 Undergraduate course\
-Universidad Antonio Nariño, Dpto. of Electronic and Biomedical Engineering\
+Universidad Antonio Nariño, Dpt. of Electronic and Biomedical Engineering\
 2010
 
 
@@ -50,9 +55,6 @@ Woring in Bayesian Optimization for animal feeding diet design.
 Current master students
 ----
 
-- Catalina Bustamante\
-Working in dynamic functional connectivity for neurological states detection and characterization.
-
 - Johnnatan Jaramillo\
 Working in process mining for fail detection.
 
@@ -61,19 +63,19 @@ Past PhD students
 ----
 
 - [Jonny Alexander Uribe](https://co.linkedin.com/in/jonny-alexander-uribe)\
-Senior Machine Learning Modeler at La Haus
 
 
 Past master students
 ----
 
-- Mario Alberto Giraldo Londoño\
-Senior Data Engineer at Universiad de Antioquia.
+- [Catalina Andrea Bustamante Arcila](https://co.linkedin.com/in/catalina-bustamantea)
 
-- Germán Eduardo Melo Acosta\
-Senior Data Scientist at Globant.
+- [Laura Fernández Galindo](https://es.linkedin.com/in/laura-fern%C3%A1ndez-galindo-6113bb221)
 
-- Jesús Antonio Tamayo Herrera\
-PhD student at Instituto Politécnico Nacional, México.
+- [Mario Alberto Giraldo Londoño](https://co.linkedin.com/in/mario-giraldo-820b2b12)\
 
-- Tatiana Villa Cañas
+- [Germán Eduardo Melo Acosta](https://co.linkedin.com/in/germanmelo01)
+
+- [Jesús Antonio Tamayo Herrera](https://mx.linkedin.com/in/phd-antonio-tamayo)\
+
+- [Tatiana Villa Cañas](https://co.linkedin.com/in/tatiana-villa-ca%C3%B1as-b07500174)

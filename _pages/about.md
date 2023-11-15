@@ -20,6 +20,8 @@ About me
 News
 ======
 
+- 9/11/2023 I was invited as panelist to the forum [Inteligencia Artificial - Usos, Potencialidades y Limitaciones](https://www.youtube.com/watch?v=tZoL6kaTqKA) organised by the Colombian Academy of Science and Sapiencia.
+
 - 19/07/2022 I have been accepted as [member](https://ellis.eu/members) by the [ELLIS Society](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems.
 
 - 29/09/2021 I was invited to give a talk on [Introduction to Bayesian optimization](https://es-la.facebook.com/CienciasEconomicasUdeA/videos/4184039641719094/) at the School of Economics, Universidad de Antioquia.
