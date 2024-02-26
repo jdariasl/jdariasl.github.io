@@ -62,7 +62,7 @@ Working in process mining for fail detection.
 Past PhD students
 ----
 
-- [Jonny Alexander Uribe](https://co.linkedin.com/in/jonny-alexander-uribe)\
+- [Jonny Alexander Uribe](https://co.linkedin.com/in/jonny-alexander-uribe)
 
 
 Past master students
@@ -72,10 +72,10 @@ Past master students
 
 - [Laura Fernández Galindo](https://es.linkedin.com/in/laura-fern%C3%A1ndez-galindo-6113bb221)
 
-- [Mario Alberto Giraldo Londoño](https://co.linkedin.com/in/mario-giraldo-820b2b12)\
+- [Mario Alberto Giraldo Londoño](https://co.linkedin.com/in/mario-giraldo-820b2b12)
 
 - [Germán Eduardo Melo Acosta](https://co.linkedin.com/in/germanmelo01)
 
-- [Jesús Antonio Tamayo Herrera](https://mx.linkedin.com/in/phd-antonio-tamayo)\
+- [Jesús Antonio Tamayo Herrera](https://mx.linkedin.com/in/phd-antonio-tamayo)
 
 - [Tatiana Villa Cañas](https://co.linkedin.com/in/tatiana-villa-ca%C3%B1as-b07500174)

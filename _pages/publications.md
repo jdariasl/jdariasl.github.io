@@ -7,6 +7,11 @@ author_profile: true
 
 You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ">my Google Scholar profile</a>.
 
+2024
+-----
+
+- **J.D. Arias- Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809423012648" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Biomedical Signal Processing and Control vol. 90, 105831, 2024.
+
 2023
 -----
 
