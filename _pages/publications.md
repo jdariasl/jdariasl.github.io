@@ -10,22 +10,30 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2024
 -----
 
-- **J.D. Arias- Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809423012648" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Biomedical Signal Processing and Control vol. 90, 105831, 2024.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809423012648" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Biomedical Signal Processing and Control vol. 90, 105831, 2024.
+
+- E.J. Ibarra, **J.D. Arias-Londoño**, J. Godino-Llorente, D.D. Mehta, M. Zañartu. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.171173471.15232421/v1" target="_blank">Subject-specific modelling of the Subglottal Pressure Estimation From Neck-Surface Vibration Signals by Domain Adaptation</a>. TechRxiv.171173471.15232421/v1, March 29, 2024.
+
+- A. Guerrero-López, **J.D. Arias-Londoño**, S. Shattuck-Hufnagel, J. Godino-Llorente. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.171084943.31044695" target="_blank">MARTA: a model for the automatic phonemic grouping of the parkinsonian speech</a>. TechRxiv.171084943.31044695/v1, March 19, 2024.
+
+- Janaína Mendes-Laureano, Jorge A Gómez-García, Alejandro Guerrero-López, Elisa Luque-Buzo, **J.D. Arias-Londoño**, Francisco J Grandas-Pérez, Juan I Godino-Llorente. <a href="https://arxiv.org/abs/2403.02371" target="_blank">NeuroVoz: a Castillian Spanish corpus of parkinsonian speech</a>. arXiv:2403.02371, March 6, 2024.
+
+
 
 2023
 -----
 
-- E.J. Ibarra, **J.D. Arias- Londoño**, M. Zañartu, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2306-5354/10/11/1316/html" target="_blank">Towards a Corpus (and Language)-Independent Screening of Parkinson’s Disease from Voice and Speech through Domain Adaptation</a>. Bioengineering vol. 10, no. 11, 1316, 2023. 
+- E.J. Ibarra, **J.D. Arias-Londoño**, M. Zañartu, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2306-5354/10/11/1316/html" target="_blank">Towards a Corpus (and Language)-Independent Screening of Parkinson’s Disease from Voice and Speech through Domain Adaptation</a>. Bioengineering vol. 10, no. 11, 1316, 2023. 
 
 - F.A. Bedoya-Guzmán, M. Pacheco-Herrero, I.D. Salomon-Cruz, A.M. Barrera-Sandoval, J.A. Gutierrez Vargas, J.G.  Villamil-Ortiz, C.A. Villegas Lanau, **J.D. Arias- Londoño**, E. Area.Gomez, G.P. Cardona-Gomez. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2023.1194203/full" target="_blank">BACE1 and SCD1 are associated with neurodegeneration</a>. Front. Aging Neurosci. 15:1194203, 2023. 
 
-- **J.D. Arias- Londoño**, J.I. Godino-Llorente. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414659" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Preprint available at SSNR, 2023.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414659" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Preprint available at SSNR, 2023.
 
-- **J.D. Arias- Londoño**, A. Moure-Prado, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2075-4418/13/8/1381" target="_blank">Automatic identification of lung opacities due to COVID-19 from chest X-Ray images. Focussing the attention on the lungs</a>. Diagnostics, vol. 13, 1381, 2023.
+- **J.D. Arias-Londoño**, A. Moure-Prado, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2075-4418/13/8/1381" target="_blank">Automatic identification of lung opacities due to COVID-19 from chest X-Ray images. Focussing the attention on the lungs</a>. Diagnostics, vol. 13, 1381, 2023.
 
 - M. Bejani, E. Luque-Buzo, A. Burlaka-Petrash, J.A. Gómez-García, **J.D. Arias- Londoño**, F. Grandas-Pérez, J. Grajal, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10086500" target="_blank">Baseline wander removal applied to smooth pursuit eye movements from parkinsonian patients</a>. IEEE Access, vol. 11, 2023.
 
-- C. Bustamante, G. Castrillón, **J.D. Arias- Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-031-29783-0_2" target="_blank">Classification of Focused Perturbations Using Time-Variant Functional Connectivity with rs-fmri</a>. In: Orjuela-Cañón, A.D., Lopez, J., Arias-Londoño, J.D., Figueroa-García, J.C. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 1746. Springer, Cham., 2023.
+- C. Bustamante, G. Castrillón, **J.D. Arias-Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-031-29783-0_2" target="_blank">Classification of Focused Perturbations Using Time-Variant Functional Connectivity with rs-fmri</a>. In: Orjuela-Cañón, A.D., Lopez, J., Arias-Londoño, J.D., Figueroa-García, J.C. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 1746. Springer, Cham., 2023.
 
 2022
 -----
@@ -67,7 +75,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - J. Jaramillo, **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/8781973" target="_blank">Automatic classification of event logs sequences for failure detection in WfM/BPM systems</a>. 2nd IEEE Colombian Conference on Applications in Computational Intelligence - COLCACI 2019.
 
-- L.V. Cobaleda, J.F. Duitama, G. Melo-Acosta,  **J.D. Arias-Londoño**. <a href="https://www.proquest.com/openview/530e6137e025d797ad4efec1b5d25048/1" target="_blank">Modular and Evolutionary architecture for high availability transactional systems with intelligent components</a>. The 2019 World Congress in Computer Science, Computer Engineering, & Applied computing.  [Open access]
+- L.V. Cobaleda, J.F. Duitama, G. Melo-Acosta,  **J.D. Arias-Londoño**. <a href="https://www.proquest.com/openview/530e6137e025d797ad4efec1b5d25048/1" target="_blank">Modular and Evolutionary architecture for high availability transactional systems with intelligent components</a>. The 2019 World Congress in Computer Science, Computer Engineering, & Applied computing.
 
 2018
 ----
