@@ -10,13 +10,19 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2024
 -----
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809423012648" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Biomedical Signal Processing and Control vol. 90, 105831, 2024.
+- G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005647" target="_blank">Feed formulation using multi-objective Bayesian optimization</a>. Computers and Electronics in Agriculture, vol. 224, 109173, 2024.
+
+- E. Hernández-García, A. Guerrero-López, **J. Arias-Londoño**, J. Godino-Llorente. A voice and speech corpus of patients who underwent upper airway surgery in pre- and post-operative states. Scientific Data, *in press*, 2024
+
+- E. Luque-Buzo, M. Bejani, **J.D. Arias-Londoño**, J.A. Gómez-García, F. Grandas-Pérez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10549994" target="_blank">Estimation of the cyclopean eye from binocular Smooth Pursuit Tests</a>. IEEE Transactions on Cognitive and Developmental Systems, *in Press*, 2024.
+
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809423012648" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Biomedical Signal Processing and Control, vol. 90, 105831, 2024.
 
 - E.J. Ibarra, **J.D. Arias-Londoño**, J. Godino-Llorente, D.D. Mehta, M. Zañartu. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.171173471.15232421/v1" target="_blank">Subject-specific modelling of the Subglottal Pressure Estimation From Neck-Surface Vibration Signals by Domain Adaptation</a>. TechRxiv.171173471.15232421/v1, March 29, 2024.
 
 - A. Guerrero-López, **J.D. Arias-Londoño**, S. Shattuck-Hufnagel, J. Godino-Llorente. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.171084943.31044695" target="_blank">MARTA: a model for the automatic phonemic grouping of the parkinsonian speech</a>. TechRxiv.171084943.31044695/v1, March 19, 2024.
 
-- Janaína Mendes-Laureano, Jorge A Gómez-García, Alejandro Guerrero-López, Elisa Luque-Buzo, **J.D. Arias-Londoño**, Francisco J Grandas-Pérez, Juan I Godino-Llorente. <a href="https://arxiv.org/abs/2403.02371" target="_blank">NeuroVoz: a Castillian Spanish corpus of parkinsonian speech</a>. arXiv:2403.02371, March 6, 2024.
+- J. Mendes-Laureano, J.A. Gómez-García, A. Guerrero-López, E. Luque-Buzo, **J.D. Arias-Londoño**, Francisco J Grandas-Pérez, Juan I Godino-Llorente. <a href="https://arxiv.org/abs/2403.02371" target="_blank">NeuroVoz: a Castillian Spanish corpus of parkinsonian speech</a>. arXiv:2403.02371, March 6, 2024.
 
 
 
