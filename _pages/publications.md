@@ -10,34 +10,36 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2024
 -----
 
-- G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005647" target="_blank">Feed formulation using multi-objective Bayesian optimization</a>. Computers and Electronics in Agriculture, vol. 224, 109173, 2024.
+- Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.biorxiv.org/content/10.1101/2024.06.21.599833v1" target="_blank">Automatic semantic segmentation of the osseous structures of the paranasal sinuses</a>. bioRxiv, DOI 10.1101/2024.06.21.599833, June 25, 2024. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blanck">GitHub</a>]
 
-- E. Hernández-García, A. Guerrero-López, **J. Arias-Londoño**, J. Godino-Llorente. A voice and speech corpus of patients who underwent upper airway surgery in pre- and post-operative states. Scientific Data, *in press*, 2024
+- G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005647" target="_blank">Feed formulation using multi-objective Bayesian optimization</a>. Computers and Electronics in Agriculture, vol. 224, 109173, 2024. [<a href="https://github.com/GabrielUribe29/MOBO-feed" target="_blanck"> GitHub </a>]
 
-- E. Luque-Buzo, M. Bejani, **J.D. Arias-Londoño**, J.A. Gómez-García, F. Grandas-Pérez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10549994" target="_blank">Estimation of the cyclopean eye from binocular Smooth Pursuit Tests</a>. IEEE Transactions on Cognitive and Developmental Systems, *in Press*, 2024.
+- E. Hernández-García, A. Guerrero-López, **J. Arias-Londoño**, J. Godino-Llorente. A voice and speech corpus of patients who underwent upper airway surgery in pre- and post-operative states. Scientific Data, *in press*, 2024. [<a href="https://github.com/BYO-UPM/CUCO_Database" target="_blanck"> GitHub </a>]
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809423012648" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Biomedical Signal Processing and Control, vol. 90, 105831, 2024.
+- E. Luque-Buzo, M. Bejani, **J.D. Arias-Londoño**, J.A. Gómez-García, F. Grandas-Pérez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10549994" target="_blank">Estimation of the cyclopean eye from binocular Smooth Pursuit Tests</a>. IEEE Transactions on Cognitive and Developmental Systems, *in Press*, 2024. [<a href="https://github.com/BYO-UPM/BW-SP-Analysis-PD" target="_blanck">GitHub</a>]
+
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809423012648" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Biomedical Signal Processing and Control, vol. 90, 105831, 2024. [<a href="https://github.com/jdariasl/COVID_BayesianNET/tree/main" target="_blanck">GitHub</a>]
 
 - E.J. Ibarra, **J.D. Arias-Londoño**, J. Godino-Llorente, D.D. Mehta, M. Zañartu. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.171173471.15232421/v1" target="_blank">Subject-specific modelling of the Subglottal Pressure Estimation From Neck-Surface Vibration Signals by Domain Adaptation</a>. TechRxiv.171173471.15232421/v1, March 29, 2024.
 
-- A. Guerrero-López, **J.D. Arias-Londoño**, S. Shattuck-Hufnagel, J. Godino-Llorente. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.171084943.31044695" target="_blank">MARTA: a model for the automatic phonemic grouping of the parkinsonian speech</a>. TechRxiv.171084943.31044695/v1, March 19, 2024.
+- A. Guerrero-López, **J.D. Arias-Londoño**, S. Shattuck-Hufnagel, J. Godino-Llorente. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.171084943.31044695" target="_blank">MARTA: a model for the automatic phonemic grouping of the parkinsonian speech</a>. TechRxiv.171084943.31044695/v1, March 19, 2024. [<a href="https://github.com/BYO-UPM/MARTA" target="_blanck">GitHub</a>]
 
-- J. Mendes-Laureano, J.A. Gómez-García, A. Guerrero-López, E. Luque-Buzo, **J.D. Arias-Londoño**, Francisco J Grandas-Pérez, Juan I Godino-Llorente. <a href="https://arxiv.org/abs/2403.02371" target="_blank">NeuroVoz: a Castillian Spanish corpus of parkinsonian speech</a>. arXiv:2403.02371, March 6, 2024.
+- J. Mendes-Laureano, J.A. Gómez-García, A. Guerrero-López, E. Luque-Buzo, **J.D. Arias-Londoño**, Francisco J Grandas-Pérez, Juan I Godino-Llorente. <a href="https://arxiv.org/abs/2403.02371" target="_blank">NeuroVoz: a Castillian Spanish corpus of parkinsonian speech</a>. arXiv:2403.02371, March 6, 2024. [<a href="https://github.com/BYO-UPM/Neurovoz_Dababase" target="_blanck">GitHub</a>]
 
 
 
 2023
 -----
 
-- E.J. Ibarra, **J.D. Arias-Londoño**, M. Zañartu, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2306-5354/10/11/1316/html" target="_blank">Towards a Corpus (and Language)-Independent Screening of Parkinson’s Disease from Voice and Speech through Domain Adaptation</a>. Bioengineering vol. 10, no. 11, 1316, 2023. 
+- E.J. Ibarra, **J.D. Arias-Londoño**, M. Zañartu, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2306-5354/10/11/1316/html" target="_blank">Towards a Corpus (and Language)-Independent Screening of Parkinson’s Disease from Voice and Speech through Domain Adaptation</a>. Bioengineering vol. 10, no. 11, 1316, 2023. [<a href="https://github.com/BYO-UPM/DA_PD" target="_blanck">GitHub</a>]
 
 - F.A. Bedoya-Guzmán, M. Pacheco-Herrero, I.D. Salomon-Cruz, A.M. Barrera-Sandoval, J.A. Gutierrez Vargas, J.G.  Villamil-Ortiz, C.A. Villegas Lanau, **J.D. Arias- Londoño**, E. Area.Gomez, G.P. Cardona-Gomez. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2023.1194203/full" target="_blank">BACE1 and SCD1 are associated with neurodegeneration</a>. Front. Aging Neurosci. 15:1194203, 2023. 
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414659" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Preprint available at SSNR, 2023.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414659" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Preprint available at SSNR, 2023. [<a href="https://github.com/jdariasl/COVID_BayesianNET/tree/main" target="_blanck">GitHub</a>]
 
 - **J.D. Arias-Londoño**, A. Moure-Prado, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2075-4418/13/8/1381" target="_blank">Automatic identification of lung opacities due to COVID-19 from chest X-Ray images. Focussing the attention on the lungs</a>. Diagnostics, vol. 13, 1381, 2023.
 
-- M. Bejani, E. Luque-Buzo, A. Burlaka-Petrash, J.A. Gómez-García, **J.D. Arias- Londoño**, F. Grandas-Pérez, J. Grajal, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10086500" target="_blank">Baseline wander removal applied to smooth pursuit eye movements from parkinsonian patients</a>. IEEE Access, vol. 11, 2023.
+- M. Bejani, E. Luque-Buzo, A. Burlaka-Petrash, J.A. Gómez-García, **J.D. Arias- Londoño**, F. Grandas-Pérez, J. Grajal, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10086500" target="_blank">Baseline wander removal applied to smooth pursuit eye movements from parkinsonian patients</a>. IEEE Access, vol. 11, 2023. [<a href="https://github.com/BYO-UPM/BW-SP-Analysis-PD" target="_blanck">GitHub</a>]
 
 - C. Bustamante, G. Castrillón, **J.D. Arias-Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-031-29783-0_2" target="_blank">Classification of Focused Perturbations Using Time-Variant Functional Connectivity with rs-fmri</a>. In: Orjuela-Cañón, A.D., Lopez, J., Arias-Londoño, J.D., Figueroa-García, J.C. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 1746. Springer, Cham., 2023.
 
