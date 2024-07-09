@@ -12,9 +12,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.biorxiv.org/content/10.1101/2024.06.21.599833v1" target="_blank">Automatic semantic segmentation of the osseous structures of the paranasal sinuses</a>. bioRxiv, DOI 10.1101/2024.06.21.599833, June 25, 2024. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blanck">GitHub</a>]
 
-- G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005647" target="_blank">Feed formulation using multi-objective Bayesian optimization</a>. Computers and Electronics in Agriculture, vol. 224, 109173, 2024. [<a href="https://github.com/GabrielUribe29/MOBO-feed" target="_blanck"> GitHub </a>]
+- G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005647" target="_blank">Feed formulation using multi-objective Bayesian optimization</a>. Computers and Electronics in Agriculture, vol. 224, 109173, 2024. [<a href="https://github.com/GabrielUribe29/MOBO-feed" target="_blanck">GitHub</a>]
 
-- E. Hernández-García, A. Guerrero-López, **J. Arias-Londoño**, J. Godino-Llorente. A voice and speech corpus of patients who underwent upper airway surgery in pre- and post-operative states. Scientific Data, *in press*, 2024. [<a href="https://github.com/BYO-UPM/CUCO_Database" target="_blanck"> GitHub </a>]
+- E. Hernández-García, A. Guerrero-López, **J. Arias-Londoño**, J. Godino-Llorente. A voice and speech corpus of patients who underwent upper airway surgery in pre- and post-operative states. Scientific Data, *in press*, 2024. [<a href="https://github.com/BYO-UPM/CUCO_Database" target="_blanck">GitHub</a>]
 
 - E. Luque-Buzo, M. Bejani, **J.D. Arias-Londoño**, J.A. Gómez-García, F. Grandas-Pérez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10549994" target="_blank">Estimation of the cyclopean eye from binocular Smooth Pursuit Tests</a>. IEEE Transactions on Cognitive and Developmental Systems, *in Press*, 2024. [<a href="https://github.com/BYO-UPM/BW-SP-Analysis-PD" target="_blanck">GitHub</a>]
 
