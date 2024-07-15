@@ -67,6 +67,7 @@ Past PhD students
 
 Past master students
 ----
+- [Isabel Prieto Payo](https://www.linkedin.com/in/ipripa)
 
 - [Catalina Andrea Bustamante Arcila](https://co.linkedin.com/in/catalina-bustamantea)
 
