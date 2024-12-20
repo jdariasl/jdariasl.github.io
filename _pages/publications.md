@@ -9,6 +9,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 2024
 -----
+- G. Andrade-Miranda, K. Chatzipapas, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2412.15054" target="_blank">GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation</a>. arXiv:2412.15054, 2024. [<a href="https://github.com/Andrade-Miranda/GIRAFE" target="_blanck">GitHub</a>]
+
+- G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://arxiv.org/abs/2409.12919" target="_blank">Swine Diet Design using Multi-objective Regionalized Bayesian Optimization</a>. arXiv:2409.12919, 2024. [<a href="https://github.com/jdariasl/morbo" target="_blanck">GitHub</a>]
 
 - Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.biorxiv.org/content/10.1101/2024.06.21.599833v1" target="_blank">Automatic semantic segmentation of the osseous structures of the paranasal sinuses</a>. bioRxiv, DOI 10.1101/2024.06.21.599833, June 25, 2024. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blanck">GitHub</a>]
 
@@ -16,7 +19,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - E. Hernández-García, A. Guerrero-López, **J. Arias-Londoño**, J. Godino-Llorente. <a href="https://www.nature.com/articles/s41597-024-03540-5" target="_blank">A voice and speech corpus of patients who underwent upper airway surgery in pre- and post-operative states</a>. Scientific Data, vol. 11, 746, 2024. [<a href="https://github.com/BYO-UPM/CUCO_Database" target="_blanck">GitHub</a>]
 
-- E. Luque-Buzo, M. Bejani, **J.D. Arias-Londoño**, J.A. Gómez-García, F. Grandas-Pérez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10549994" target="_blank">Estimation of the cyclopean eye from binocular Smooth Pursuit Tests</a>. IEEE Transactions on Cognitive and Developmental Systems, *in Press*, 2024. [<a href="https://github.com/BYO-UPM/BW-SP-Analysis-PD" target="_blanck">GitHub</a>]
+- E. Luque-Buzo, M. Bejani, **J.D. Arias-Londoño**, J.A. Gómez-García, F. Grandas-Pérez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/10549994" target="_blank">Estimation of the cyclopean eye from binocular Smooth Pursuit Tests</a>. IEEE Transactions on Cognitive and Developmental Systems, vol. 16, no. 6, pp 2125-2137, 2024. [<a href="https://github.com/BYO-UPM/BW-SP-Analysis-PD" target="_blanck">GitHub</a>]
 
 - **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809423012648" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Biomedical Signal Processing and Control, vol. 90, 105831, 2024. [<a href="https://github.com/jdariasl/COVID_BayesianNET/tree/main" target="_blanck">GitHub</a>]
 
@@ -24,9 +27,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - A. Guerrero-López, **J.D. Arias-Londoño**, S. Shattuck-Hufnagel, J. Godino-Llorente. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.171084943.31044695" target="_blank">MARTA: a model for the automatic phonemic grouping of the parkinsonian speech</a>. TechRxiv.171084943.31044695/v1, March 19, 2024. [<a href="https://github.com/BYO-UPM/MARTA" target="_blanck">GitHub</a>]
 
-- J. Mendes-Laureano, J.A. Gómez-García, A. Guerrero-López, E. Luque-Buzo, **J.D. Arias-Londoño**, Francisco J Grandas-Pérez, Juan I Godino-Llorente. <a href="https://arxiv.org/abs/2403.02371" target="_blank">NeuroVoz: a Castillian Spanish corpus of parkinsonian speech</a>. arXiv:2403.02371, March 6, 2024. [<a href="https://github.com/BYO-UPM/Neurovoz_Dababase" target="_blanck">GitHub</a>]
-
-
+- J. Mendes-Laureano, J.A. Gómez-García, A. Guerrero-López, E. Luque-Buzo, **J.D. Arias-Londoño**, Francisco J Grandas-Pérez, Juan I Godino-Llorente. <a href="https://www.nature.com/articles/s41597-024-04186-z.epdf" target="_blank">NeuroVoz: a Castillian Spanish corpus of parkinsonian speech</a>. Scientific Data, 11:1367, 2024. [<a href="https://github.com/BYO-UPM/Neurovoz_Dababase" target="_blanck">GitHub</a>]
 
 2023
 -----
