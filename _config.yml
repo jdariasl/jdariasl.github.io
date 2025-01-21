@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Julián Arias-Londoño"
   avatar           : "profile.png"
-  bio              : "Senior Researcher<br /> Universidad Politécnica de Madrid"
-  location         : "Madrid, Spain."
+  bio              : "Full Professor<br /> Universidad de Antioquia"
+  location         : "Medellín, Colombia."
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Arias-Londo%C3%B1o+JD&cauthor_id=21073260"
   googlescholar    : "https://scholar.google.com/citations?user=ZTdSU3wAAAAJ&hl=en"
-  email            : "julian.arias@upm.es"
+  email            : "julian.ariasl@udea.edu.co"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
