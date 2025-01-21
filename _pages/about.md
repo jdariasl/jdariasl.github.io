@@ -13,12 +13,15 @@ redirect_from:
 About me
 ======
 
-<div style="text-align: justify">I am Senior Researcher at Universidad Politécnica de Madrid, Spain and Full Professor of Computer Science at the Universidad de Antioquia, Colombia. My fields of expertise are in the areas of artificial intelligence, machine learning and signal processing, mainly applied to healthcare and computer-aided diagnostic system.</div>   
+<div style="text-align: justify">I am a Full Professor of Computer Science at the Universidad de Antioquia, Medellín, Colombia. My fields of expertise are in the areas of artificial intelligence, machine learning and signal processing, mainly applied to healthcare and computer-aided diagnostic system. From March 2022 to December 2024 I was with the Dpt. of Signals, Systems and Radiocommunications at the ETSIT-Universidad Politécnica de Madrid as a Visiting Researcher supported by a María Zambrano grant funded by the European Union-NextGenerationEU.</div>
+
 \
 &nbsp;
 
 News
 ======
+
+- 21/11/2024 I was in Cambridge, MA as part of the organizing committe of the 2nd Automatic Assessment of Parkinsonian Speech Workshop held at the premises of the Research Laboratory of electronics (RLE) of the Massachussets Institute of Technology (MIT).
 
 - 9/11/2023 I was invited as panelist to the forum [Inteligencia Artificial - Usos, Potencialidades y Limitaciones](https://www.youtube.com/watch?v=tZoL6kaTqKA) organised by the Colombian Academy of Science and Sapiencia.
 
