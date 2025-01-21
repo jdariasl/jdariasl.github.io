@@ -8,17 +8,17 @@ author_profile: true
 - [Optimisation Techniques for Big Data Analysis](https://jdariasl.github.io/OTBD/intro.html)\
 Posgradute course\
 Universidad Politécncia de Madrid, Dpt. of Signals, Systems and Radiocommunications\
-Fall 2023
+Falls 2023 - 2024.
 
 - [Fundamentals of Deep Learning](https://rramosp.github.io/2021.deeplearning/intro.html)\
 Posgradute course\
 Universidad de Antioquia, Dpt. of Systems Engineering and Computer Science\
-Every semestrer since 2018
+Every semestrer since 2018 to 2022.
 
 - [Introduction to Machine Learning](https://jdariasl.github.io/ML_2020/intro.html)\
 Undergraduate course\
 Universidad de Antioquia, Dpt. of Systems Engineering and Computer Science\
-Every semestrer since 2014
+Every semestrer since 2014 to 2022.
 
 - Probabilistic Machine Learning\
 Posgradute course\
