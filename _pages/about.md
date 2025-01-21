@@ -21,7 +21,7 @@ About me
 News
 ======
 
-- 21/11/2024 I was in Cambridge, MA as part of the organizing committe of the 2nd Automatic Assessment of Parkinsonian Speech Workshop held at the premises of the Research Laboratory of electronics (RLE) of the Massachussets Institute of Technology (MIT).
+- 21/11/2024 I was in Cambridge, MA as part of the organizing committe of the [2nd Automatic Assessment of Parkinsonian Speech Workshop](https://www.byo.upm.es/AAPS24) held at the premises of the Research Laboratory of electronics (RLE) of the Massachussets Institute of Technology (MIT).
 
 - 9/11/2023 I was invited as panelist to the forum [Inteligencia Artificial - Usos, Potencialidades y Limitaciones](https://www.youtube.com/watch?v=tZoL6kaTqKA) organised by the Colombian Academy of Science and Sapiencia.
 
