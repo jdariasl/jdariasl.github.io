@@ -7,10 +7,12 @@ author_profile: true
 
 You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ">my Google Scholar profile</a>.
 
+2025
+-----
+- G. Andrade-Miranda, K. Chatzipapas, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340925001088" target="_blank">GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation</a>. In Press Data in Brief, 2025. [<a href="https://github.com/BYO-UPM/GIRAFE" target="_blanck">GitHub</a>]
+
 2024
 -----
-- G. Andrade-Miranda, K. Chatzipapas, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2412.15054" target="_blank">GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation</a>. arXiv:2412.15054, 2024. [<a href="https://github.com/Andrade-Miranda/GIRAFE" target="_blanck">GitHub</a>]
-
 - G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://arxiv.org/abs/2409.12919" target="_blank">Swine Diet Design using Multi-objective Regionalized Bayesian Optimization</a>. arXiv:2409.12919, 2024. [<a href="https://github.com/jdariasl/morbo" target="_blanck">GitHub</a>]
 
 - Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.biorxiv.org/content/10.1101/2024.06.21.599833v1" target="_blank">Automatic semantic segmentation of the osseous structures of the paranasal sinuses</a>. bioRxiv, DOI 10.1101/2024.06.21.599833, June 25, 2024. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blanck">GitHub</a>]
