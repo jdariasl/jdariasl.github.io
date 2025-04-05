@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ">my Google Scholar profile</a>.
+You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ" target="_blank">my Google Scholar profile</a>.
 
 2025
 -----
+- Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611125000503">Automatic semantic segmentation of the osseous structures of the paranasal sinuses</a>. Computerized Medical Imaging and Graphics, vol. 123, 102541, 2025. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blank">GitHub</a>]
+
 - E. J. Ibarra, **J.D. Arias-Londoño**, J. Godino-Llorente, D.D. Mehta, M. Zañartu. <a href="https://www.sciencedirect.com/science/article/pii/S1746809425001922" target="_blank">Subject-Specific Modeling by Domain Adaptation for the Estimation of Subglottal Pressure from Neck-Surface Acceleration Signals</a>. Biomedical Signal Processing and Control, vol. 106, 107681, 2025.
 
 - G. Andrade-Miranda, K. Chatzipapas, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340925001088" target="_blank">GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation</a>. Data in Brief, vol. 59, 111376, 2025. [<a href="https://github.com/BYO-UPM/GIRAFE" target="_blanck">GitHub</a>]
