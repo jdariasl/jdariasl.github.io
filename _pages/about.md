@@ -20,6 +20,7 @@ About me
 
 News
 ======
+- 27/08/2025 I was inveted as keynote speaker to the eighth edition of the [IEEE Colombian Conference on Applications in Computational Intelligence - ColCACI2025](https://2025.ieee-colcaci.org/) held at the Universidad del Quindío, Armenia, Colombia, between August 25th-27th, 2025. Title of the talk: "From Explainability to Trustworthiness in the Application of AI to Biomedical Contexts."  
 
 - 21/11/2024 I was in Cambridge, MA as part of the organizing committe of the [2nd Automatic Assessment of Parkinsonian Speech Workshop](https://www.byo.upm.es/AAPS24) held at the premises of the Research Laboratory of electronics (RLE) of the Massachussets Institute of Technology (MIT).
 

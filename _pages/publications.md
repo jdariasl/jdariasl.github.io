@@ -9,6 +9,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 2025
 -----
+- Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340925006869?via%3Dihub">CT-SCOPE: annotated dataset of CT SCans for the automatic semantic segmentation of the Osseous structures of the Paranasal sinusEs</a>. Data in Brief, vol. 62, 111962, 2025. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blank">GitHub</a>]
+
 - Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611125000503">Automatic semantic segmentation of the osseous structures of the paranasal sinuses</a>. Computerized Medical Imaging and Graphics, vol. 123, 102541, 2025. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blank">GitHub</a>]
 
 - E. J. Ibarra, **J.D. Arias-Londoño**, J. Godino-Llorente, D.D. Mehta, M. Zañartu. <a href="https://www.sciencedirect.com/science/article/pii/S1746809425001922" target="_blank">Subject-Specific Modeling by Domain Adaptation for the Estimation of Subglottal Pressure from Neck-Surface Acceleration Signals</a>. Biomedical Signal Processing and Control, vol. 106, 107681, 2025.
