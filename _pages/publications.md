@@ -10,9 +10,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2025
 -----
 
-- A. Moure-Prado, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach. Accepted IEEE Access, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
+- A. Moure-Prado, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, early access, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
 
-- M.F. Alcala-Durand, J.C. Puerta-Acevedo, **J.D. Arias-Londoño**, J.I. Godino-Llorente <a href="https://arxiv.org/abs/2509.01326" target="_blank">Automatic Screening of Parkinson's Disease from Visual Explorations</a>. arXiv:2509.01326, 2025.
+- M.F. Alcala-Durand, J.C. Puerta-Acevedo, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2509.01326" target="_blank">Automatic Screening of Parkinson's Disease from Visual Explorations</a>. arXiv:2509.01326, 2025.
 
 - Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340925006869?via%3Dihub">CT-SCOPE: annotated dataset of CT SCans for the automatic semantic segmentation of the Osseous structures of the Paranasal sinusEs</a>. Data in Brief, vol. 62, 111962, 2025. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blank">GitHub</a>]
 
