@@ -13,7 +13,7 @@ redirect_from:
 About me
 ======
 
-<div style="text-align: justify">I am a Full Professor of Computer Science at the Universidad de Antioquia, Medellín, Colombia. My fields of expertise are in the areas of artificial intelligence, machine learning and signal processing, mainly applied to healthcare and computer-aided diagnostic system. From March 2022 to December 2024 I was with the Dpt. of Signals, Systems and Radiocommunications at the ETSIT-Universidad Politécnica de Madrid as a Visiting Researcher supported by a María Zambrano grant funded by the European Union-NextGenerationEU.</div>
+<div style="text-align: justify">I am a Full Professor of Computer Science at the Universidad de Antioquia, Medellín, Colombia. My fields of expertise are in the areas of artificial intelligence, machine learning and signal processing, mainly applied to healthcare and computer-aided diagnostic system. I teach basic and advanced courses in Machine Learning, Deep Learning and Probabilistic Machine/Deep learning.</div>
 
 \
 &nbsp;
@@ -23,7 +23,9 @@ News
 
 - 29/01/2026 I was accepted in working groups 1, 2 and 4 of COST action [CA24128 - European Network to Advance the Development and Implementation of Vocal Biomarkers (eVoiceNet)](https://www.cost.eu/actions/CA24128/).
 
-- 27/08/2025 I was inveted as keynote speaker to the eighth edition of the [IEEE Colombian Conference on Applications in Computational Intelligence - ColCACI2025](https://2025.ieee-colcaci.org/) held at the Universidad del Quindío, Armenia, Colombia, between August 25th-27th, 2025. Title of the talk: "From Explainability to Trustworthiness in the Application of AI to Biomedical Contexts."  
+- 27/08/2025 I was inveted as keynote speaker to the eighth edition of the [IEEE Colombian Conference on Applications in Computational Intelligence - ColCACI2025](https://2025.ieee-colcaci.org/) held at the Universidad del Quindío, Armenia, Colombia, between August 25th-27th, 2025. Title of the talk: "From Explainability to Trustworthiness in the Application of AI to Biomedical Contexts."
+
+- 1/07/2025. The special issue proposal on "Modeling and Processing Language and Speech in Neurodegenerative Disorders" was accepted by the IEEE Journal of Selected Topics in Signal Processing. I am part of the guest editors along with Prof. Stefanie Shattuck-Hufnagel from Massachusetts Institute of Technology, MA, USA, Prof. Juan I. Godino-Llorente from Universidad Politécnica de Madrid, Madrid, Spain,Prof. Mark Hasegawa-Johnson from University of Illinois, IL, USA and Prof. Helen Meng from The Chinese University of Hong Kong, NT, Hong Kong.
 
 - 21/11/2024 I was in Cambridge, MA as part of the organizing committe of the [2nd Automatic Assessment of Parkinsonian Speech Workshop](https://www.byo.upm.es/AAPS24) held at the premises of the Research Laboratory of electronics (RLE) of the Massachussets Institute of Technology (MIT).
 

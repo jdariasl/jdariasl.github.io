@@ -15,7 +15,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2025
 -----
 
-- A. Moure-Prado, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, vol. 13, pp 178160 - 178175, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
+- J.I. Godino-Llorente, **J.D. Arias-Londoño**, M. Hasegawa-Johnson, H. Meng, S. Shattuck-Hufnagel. <a href="https://ieeexplore.ieee.org/abstract/document/11275989" target="_blank">Guest Editorial: Modeling and Processing Language and Speech in Neurodegenerative Disorders</a>. IEEE Journal of Selected Topics in Signal Processing, 19(5), 696-699, 2025.
+
+- A. Moure-Prado, A. Guerrero-López, , J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, vol. 13, pp 178160 - 178175, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
 
 - M.F. Alcala-Durand, J.C. Puerta-Acevedo, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2509.01326" target="_blank">Automatic Screening of Parkinson's Disease from Visual Explorations</a>. arXiv:2509.01326, 2025.
 
