@@ -7,10 +7,15 @@ author_profile: true
 
 You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ" target="_blank">my Google Scholar profile</a>.
 
+2026
+-----
+
+- H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]
+
 2025
 -----
 
-- A. Moure-Prado, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, early access, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
+- A. Moure-Prado, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, vol. 13, pp 178160 - 178175, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
 
 - M.F. Alcala-Durand, J.C. Puerta-Acevedo, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2509.01326" target="_blank">Automatic Screening of Parkinson's Disease from Visual Explorations</a>. arXiv:2509.01326, 2025.
 
@@ -24,6 +29,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 2024
 -----
+
 - G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://arxiv.org/abs/2409.12919" target="_blank">Swine Diet Design using Multi-objective Regionalized Bayesian Optimization</a>. arXiv:2409.12919, 2024. [<a href="https://github.com/jdariasl/morbo" target="_blanck">GitHub</a>]
 
 - Y. Sun, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.biorxiv.org/content/10.1101/2024.06.21.599833v1" target="_blank">Automatic semantic segmentation of the osseous structures of the paranasal sinuses</a>. bioRxiv, DOI 10.1101/2024.06.21.599833, June 25, 2024. [<a href="https://github.com/BYO-UPM/Craneal_CT" target="_blanck">GitHub</a>]
