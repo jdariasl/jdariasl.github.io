@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
--2024-2026. **Prodromal phospholipid signature of cognitive dysfunction and dementia**.<br/> 
+- 2024-2026. **Prodromal phospholipid signature of cognitive dysfunction and dementia**.<br/> 
 Financed by Colombian Minister of Science, Technology and Innovation.\
 Position: Part of the research team.
 
