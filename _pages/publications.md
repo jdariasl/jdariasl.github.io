@@ -10,7 +10,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2026
 -----
 
-- J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. HUPA: a corpus of disordered and normophonic voices in Castilian Spanish. Accepted for publication in Data in Brief, 2026. 
+- J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340926002295" target="_blank">HUPA: a corpus of disordered and normophonic voices in Castilian Spanish</a>. Data in Brief, In Press, 2026. [<a href="https://github.com/BYO-UPM/HUPA_Database" target="_blank">GitHub</a>]
 
 - H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]
 
