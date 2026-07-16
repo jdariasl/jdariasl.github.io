@@ -10,7 +10,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2026
 -----
 
-- J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340926002295" target="_blank">HUPA: a corpus of disordered and normophonic voices in Castilian Spanish</a>. Data in Brief, In Press, 2026. [<a href="https://github.com/BYO-UPM/HUPA_Database" target="_blank">GitHub</a>]
+- S. Castaño-López, T.J. Lopera, V. Restrepo, L.F. Carbal, J.M. Ramírez-Mejía, A. Hernández, D. Gil, J.-C. Díaz, M. Manrique-Moreno, L. Barazzuol, R. Posada-Duque, M. Rojas, G. Vásquez, L. Corrales-Garcia, **J.D. Arias-Londoño**, J.C. Wolters, D. Castaño. <a href="https://doi.org/10.1016/j.jtauto.2026.100387" target="_blank">Aggrecan and polymeric immunoglobulin receptor in extracellular vesicles of patients with seropositive rheumatoid arthritis</a>. Journal of Translational Autoimmunity, vol. 13, 100387, 2026.
+
+- J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340926002295" target="_blank">HUPA: a corpus of disordered and normophonic voices in Castilian Spanish</a>. Data in Brief, vol. 66, 112676, 2026. [<a href="https://github.com/BYO-UPM/HUPA_Database" target="_blank">GitHub</a>]
 
 - H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]
 
