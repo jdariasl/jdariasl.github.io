@@ -42,29 +42,27 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 	}
 </style>
 
-<div class="area-legend">
-	<strong>Research areas:</strong>
-	<span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span>
-	<span class="area-tag area-metabo">Metabolomics data analysis</span>
-</div>
-
 2026
 -----
 
-- <span class="area-tag area-metabo">Metabolomics Collaboration</span> S. Castaño-López, T.J. Lopera, V. Restrepo, L.F. Carbal, J.M. Ramírez-Mejía, A. Hernández, D. Gil, J.-C. Díaz, M. Manrique-Moreno, L. Barazzuol, R. Posada-Duque, M. Rojas, G. Vásquez, L. Corrales-Garcia, **J.D. Arias-Londoño**, J.C. Wolters, D. Castaño. <a href="https://doi.org/10.1016/j.jtauto.2026.100387" target="_blank">Aggrecan and polymeric immunoglobulin receptor in extracellular vesicles of patients with seropositive rheumatoid arthritis</a>. Journal of Translational Autoimmunity, vol. 13, 100387, 2026.
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
-- <span class="area-tag area-metabo">Metabolomics Collaboration</span> G.P. Cardona-Gómez, I.D. Salomón-Cruz, N.D. Galvis-Garrido, L.A. Lozano-Trujillo, J.P. Barbosa-Carvajal, S.C. Agudelo-Castrillon, J. Montesinos, T.D. Yun, E. Henao, Y. Quiroz, K. Kosik,  E. Schon, D. Larrea, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, J.D. Arias-Londoño, D. Aguillón, E. Area-Gómez. <a href="https://doi.org/10.21203/rs.3.rs-9357482/v1" target="_blank">Circulating lipids uncover early membrane disruption as a primary event preceding Alzheimer’s disease onset</a>. Research Square, pp.rs-3.rs-9357482, 2026.
+- J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340926002295" target="_blank">HUPA: a corpus of disordered and normophonic voices in Castilian Spanish</a>. Data in Brief, vol. 66, 112676, 2026. [<a href="https://github.com/BYO-UPM/HUPA_Database" target="_blank">GitHub</a>]
 
-- <span class="area-tag area-ai">Signal Processing / AI</span> J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340926002295" target="_blank">HUPA: a corpus of disordered and normophonic voices in Castilian Spanish</a>. Data in Brief, vol. 66, 112676, 2026. [<a href="https://github.com/BYO-UPM/HUPA_Database" target="_blank">GitHub</a>]
+- H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]
 
-- <span class="area-tag area-ai">Signal Processing / AI</span> H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]
+<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+
+- S. Castaño-López, T.J. Lopera, V. Restrepo, L.F. Carbal, J.M. Ramírez-Mejía, A. Hernández, D. Gil, J.-C. Díaz, M. Manrique-Moreno, L. Barazzuol, R. Posada-Duque, M. Rojas, G. Vásquez, L. Corrales-Garcia, **J.D. Arias-Londoño**, J.C. Wolters, D. Castaño. <a href="https://doi.org/10.1016/j.jtauto.2026.100387" target="_blank">Aggrecan and polymeric immunoglobulin receptor in extracellular vesicles of patients with seropositive rheumatoid arthritis</a>. Journal of Translational Autoimmunity, vol. 13, 100387, 2026.
+
+- G.P. Cardona-Gómez, I.D. Salomón-Cruz, N.D. Galvis-Garrido, L.A. Lozano-Trujillo, J.P. Barbosa-Carvajal, S.C. Agudelo-Castrillon, J. Montesinos, T.D. Yun, E. Henao, Y. Quiroz, K. Kosik,  E. Schon, D. Larrea, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, J.D. Arias-Londoño, D. Aguillón, E. Area-Gómez. <a href="https://doi.org/10.21203/rs.3.rs-9357482/v1" target="_blank">Circulating lipids uncover early membrane disruption as a primary event preceding Alzheimer’s disease onset</a>. Research Square, pp.rs-3.rs-9357482, 2026.
 
 2025
 -----
 
-- <span class="area-tag area-ai">Signal Processing / AI</span> J.I. Godino-Llorente, **J.D. Arias-Londoño**, M. Hasegawa-Johnson, H. Meng, S. Shattuck-Hufnagel. <a href="https://ieeexplore.ieee.org/abstract/document/11275989" target="_blank">Guest Editorial: Modeling and Processing Language and Speech in Neurodegenerative Disorders</a>. IEEE Journal of Selected Topics in Signal Processing, 19(5), 696-699, 2025.
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
-- <span class="area-tag area-metabo">Metabolomics Collaboration</span> G.P. Cardona-Gómez, I.D. Salomón-Cruz, L.A. Lozano-Trujillo, N.D. Galvis-Garrido, S.C. Agudelo-Castrillon, J.P. Barbosa-Carvajal, M. Hoyos Ríos, L.M. Trujillo-Chacón, E. Henao, G. Javier Fernandez, E. Osorio, Y.T. Quiroz, E. Schon, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, **J.D. Arias-Londoño**, D. Aguillón, E. Area-Gómez. <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690392v1.abstract" target="_blank">Serum Lipidome as an Early Peripheral Indicator in Familial Alzheimer’s Disease</a>. bioRxiv, doi: [https://doi.org/10.1101/2025.11.25.690392](https://doi.org/10.1101/2025.11.25.690392), 2025.
+- J.I. Godino-Llorente, **J.D. Arias-Londoño**, M. Hasegawa-Johnson, H. Meng, S. Shattuck-Hufnagel. <a href="https://ieeexplore.ieee.org/abstract/document/11275989" target="_blank">Guest Editorial: Modeling and Processing Language and Speech in Neurodegenerative Disorders</a>. IEEE Journal of Selected Topics in Signal Processing, 19(5), 696-699, 2025.
 
 - A. Moure-Prado, A. Guerrero-López, , J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, vol. 13, pp 178160 - 178175, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
 
@@ -78,8 +76,14 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - G. Andrade-Miranda, K. Chatzipapas, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340925001088" target="_blank">GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation</a>. Data in Brief, vol. 59, 111376, 2025. [<a href="https://github.com/BYO-UPM/GIRAFE" target="_blanck">GitHub</a>]
 
+<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+
+- G.P. Cardona-Gómez, I.D. Salomón-Cruz, L.A. Lozano-Trujillo, N.D. Galvis-Garrido, S.C. Agudelo-Castrillon, J.P. Barbosa-Carvajal, M. Hoyos Ríos, L.M. Trujillo-Chacón, E. Henao, G. Javier Fernandez, E. Osorio, Y.T. Quiroz, E. Schon, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, **J.D. Arias-Londoño**, D. Aguillón, E. Area-Gómez. <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690392v1.abstract" target="_blank">Serum Lipidome as an Early Peripheral Indicator in Familial Alzheimer’s Disease</a>. bioRxiv, doi: [https://doi.org/10.1101/2025.11.25.690392](https://doi.org/10.1101/2025.11.25.690392), 2025.
+
 2024
 -----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - G. Uribe-Guerra, D. Múnera-Ramírez, **J.D. Arias-Londoño**. <a href="https://arxiv.org/abs/2409.12919" target="_blank">Swine Diet Design using Multi-objective Regionalized Bayesian Optimization</a>. arXiv:2409.12919, 2024. [<a href="https://github.com/jdariasl/morbo" target="_blanck">GitHub</a>]
 
@@ -102,9 +106,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2023
 -----
 
-- E.J. Ibarra, **J.D. Arias-Londoño**, M. Zañartu, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2306-5354/10/11/1316/html" target="_blank">Towards a Corpus (and Language)-Independent Screening of Parkinson’s Disease from Voice and Speech through Domain Adaptation</a>. Bioengineering vol. 10, no. 11, 1316, 2023. [<a href="https://github.com/BYO-UPM/DA_PD" target="_blanck">GitHub</a>]
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
-- F.A. Bedoya-Guzmán, M. Pacheco-Herrero, I.D. Salomon-Cruz, A.M. Barrera-Sandoval, J.A. Gutierrez Vargas, J.G.  Villamil-Ortiz, C.A. Villegas Lanau, **J.D. Arias- Londoño**, E. Area.Gomez, G.P. Cardona-Gomez. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2023.1194203/full" target="_blank">BACE1 and SCD1 are associated with neurodegeneration</a>. Front. Aging Neurosci. 15:1194203, 2023. 
+- E.J. Ibarra, **J.D. Arias-Londoño**, M. Zañartu, J.I. Godino-Llorente. <a href="https://www.mdpi.com/2306-5354/10/11/1316/html" target="_blank">Towards a Corpus (and Language)-Independent Screening of Parkinson’s Disease from Voice and Speech through Domain Adaptation</a>. Bioengineering vol. 10, no. 11, 1316, 2023. [<a href="https://github.com/BYO-UPM/DA_PD" target="_blanck">GitHub</a>]
 
 - **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414659" target="_blank">Analysis of the Clever Hans Effect in COVID-19 Detection Using Chest X-Ray Images and Bayesian Deep Learning</a>. Preprint available at SSNR, 2023. [<a href="https://github.com/jdariasl/COVID_BayesianNET/tree/main" target="_blanck">GitHub</a>]
 
@@ -114,8 +118,14 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - C. Bustamante, G. Castrillón, **J.D. Arias-Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-031-29783-0_2" target="_blank">Classification of Focused Perturbations Using Time-Variant Functional Connectivity with rs-fmri</a>. In: Orjuela-Cañón, A.D., Lopez, J., Arias-Londoño, J.D., Figueroa-García, J.C. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 1746. Springer, Cham., 2023.
 
+<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+
+- F.A. Bedoya-Guzmán, M. Pacheco-Herrero, I.D. Salomon-Cruz, A.M. Barrera-Sandoval, J.A. Gutierrez Vargas, J.G.  Villamil-Ortiz, C.A. Villegas Lanau, **J.D. Arias- Londoño**, E. Area.Gomez, G.P. Cardona-Gomez. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2023.1194203/full" target="_blank">BACE1 and SCD1 are associated with neurodegeneration</a>. Front. Aging Neurosci. 15:1194203, 2023.
+
 2022
 -----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - J. A. Arango-Sánchez, **J.D. Arias-Londoño**. <a href="https://arxiv.org/abs/2205.13657" target="_blank">An enhanced Conv-TasNet model for speech separation using a speaker distance-based loss function</a>. arXiv preprint arXiv:2205.13657. 2022.
 
@@ -123,6 +133,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 2021
 -----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - L. Moro-Velázquez, J.A. Gómez-García, **J.D. Arias-Londoño**, N. Dehak, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942100015X" target="_blank">Advances in Parkinson's Disease detection and assessment using voice and speech: A review of the articulatory and phonatory aspects</a>. Biomedical Signal Processing and Control, vol 66.  102418, 2021.
 
@@ -133,18 +145,24 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2020
 ----
 
-- **J.D. Arias-Londoño**, J.A. Gómez-García, L. Moro-Velázquez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/9293268" target="_blank">Artificial Intelligence applied to chest X-Ray images for the automatic detection of COVID-19. A thoughtful evaluation approach</a>. IEEE Access, vol. 8, 2020. [<a href="https://github.com/jdariasl/COVIDNET" target="_blank">GitHub</a>]
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
-- J. Villar-Vesga, J. Henao-Restrepo, D. C Voshart, D. Aguillón, A. Villegas, D. Castaño, **J.D. Arias-Londoño**, I.S. Zuhorn, L. Ribosvki, L. Barazzuol, G. P. Cardona-Gómez, R. A. Posada-Duque. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2020.587989/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Aging_Neuroscience&id=587989" target="_blank">Differential profile of systemic extracellular vesicles from sporadic and familiar Alzheimer’s disease leads to neuroglial and endothelial cell degeneration</a>. Frontiers in Aging Neuroscience. 12:587989. 2020.
+- **J.D. Arias-Londoño**, J.A. Gómez-García, L. Moro-Velázquez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/9293268" target="_blank">Artificial Intelligence applied to chest X-Ray images for the automatic detection of COVID-19. A thoughtful evaluation approach</a>. IEEE Access, vol. 8, 2020. [<a href="https://github.com/jdariasl/COVIDNET" target="_blank">GitHub</a>]
 
 - **J.D. Arias-Londoño**, J.A. Gómez-García, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/8917580" target="_blank">Multimodal and multi-output deep learning architectures for the automatic assessment of voice quality using the GRB scale</a>. IEEE Journal of Selected Topics in Signal Processing, vol 20, no. 2, pp 413 - 422, 2020.
 
-- A. M. Sabogal-Guáqueta, **J.D. Arias-Londoño**, J.A. Gutierrez-Vargas, D. Sepulveda-Falla, M. Glatzel, C.A. Villegas-Lanau, G.P. Cardona-Gómez. <a href="https://www.sciencedirect.com/science/article/pii/S0925443920301423" target="_blank">Common disbalance in the brain parenchyma of dementias: Phospholipid profile analysis between CADASIL and sporadic Alzheimer's disease</a>.  BBA - Molecular Basis of Disease, vol. 1866, no. 1, 165797, 2020.
-
 - A. Santana-Velásquez, J. Freddy-Duitama and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/9247889" target="_blank">Automatic classification of Diagnosis-Related Groups using ANN and XGBoost models</a>. 3rd IEEE Colombian Conference on Applications in Computational Intelligence - COLCACI 2020.
+
+<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+
+- J. Villar-Vesga, J. Henao-Restrepo, D. C Voshart, D. Aguillón, A. Villegas, D. Castaño, **J.D. Arias-Londoño**, I.S. Zuhorn, L. Ribosvki, L. Barazzuol, G. P. Cardona-Gómez, R. A. Posada-Duque. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2020.587989/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Aging_Neuroscience&id=587989" target="_blank">Differential profile of systemic extracellular vesicles from sporadic and familiar Alzheimer’s disease leads to neuroglial and endothelial cell degeneration</a>. Frontiers in Aging Neuroscience. 12:587989. 2020.
+
+- A. M. Sabogal-Guáqueta, **J.D. Arias-Londoño**, J.A. Gutierrez-Vargas, D. Sepulveda-Falla, M. Glatzel, C.A. Villegas-Lanau, G.P. Cardona-Gómez. <a href="https://www.sciencedirect.com/science/article/pii/S0925443920301423" target="_blank">Common disbalance in the brain parenchyma of dementias: Phospholipid profile analysis between CADASIL and sporadic Alzheimer's disease</a>.  BBA - Molecular Basis of Disease, vol. 1866, no. 1, 165797, 2020.
 
 2019
 ----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - **J.D. Arias-Londoño**, J.A. Gómez-García. <a href="https://link.springer.com/chapter/10.1007/978-3-030-65654-6_6" target="_blank">Predicting UPDRS Scores in Parkinson’s Disease Using Voice Signals: A Deep Learning/Transfer-Learning-Based Approach</a>. In: Godino-Llorente J.I. (eds) Automatic Assessment of Parkinsonian Speech. AAPS 2019. Communications in Computer and Information Science, vol 1295. Springer, Cham.
 
@@ -159,22 +177,28 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2018
 ----
 
-- A. M. Sabogal-Guaqueta, J. G. Villamil, **J.D. Arias-Londoño** and G.P. Cardona-Gómez. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00989/full" target="_blank">Inverse Phosphatidylcholine/Phosphatidylinositol Levels as Peripheral Biomarkers and Phosphatidylcholine/Lysophosphatidylethanolamine-Phosphatidylserine as a Central Indicator of Postischemic Cognitive Impairment in Rats</a>. Frontiers in Neuroscience, section Neurodegeneration, vol. 12, Paper 989, 2018.
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - M.A. Giraldo Londoño, J.F. Duitama, **J.D. Arias-Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-030-03023-0_12" target="_blank">Cost-Balance Setting of MapReduce and Spark-Based Architectures for SVM</a>. In: Orjuela-Cañón A., Figueroa-García J., Arias-Londoño J. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 833, pp 137-149. Springer, Cham, 2018.
 
 - **J.D. Arias-Londoño**, J.A. Gómez-García, L. Moro-Velázquez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/8622498" target="_blank">ByoVoz Automatic Voice Condition Analysis System for the 2018 FEMH Challenge</a>. Proceedings of the IEEE International Conference on Big Data, 2018.
 
-- A. M. Sabogal-Guáqueta, R. Posada-Duque, Natalie Charlotte Cortes, **J.D. Arias-Londoño**, G.P. Cardona-Gómez. <a href="https://www.sciencedirect.com/science/article/pii/S0028390818301709" target="_blank">Changes in the hippocampal and peripheral phospholipid profiles are associated with neurodegeneration hallmarks in a long-term global cerebral ischemia model: Attenuation by Linalool</a>. Neuropharmacology, vol. 135, pp 555-571, 2018.
-
-- J.G. Villamil-Ortiz, A. Barrera-Ocampo, **J.D. Arias-Londoño**, A. Villegas, F. Lopera, G.P. Cardona-Gómez. <a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad170554" target="_blank">Differential Pattern of Phospholipid Profile in the Temporal Cortex from E280A-Familiar and Sporadic Alzheimer’s Disease Brains</a>. Journal of Alzheimer's Disease, vol. 61, no. 1, pp 209-219, 2018.
-
 - M. Giraldo, J.F. Duitama, **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/8484855" target="_blank">MapReduce and Spark-based architecture for bi-class classification using SVM</a>. Colombian Conference on Applications in Computational Intelligence - COLCACI 2018.
 
 - J. Uirbe, **J.D. Arias-Londoño**, and A. Perera-Lluna. <a href="https://www.scitepress.org/Papers/2018/66479/66479.pdf" target="_blank">Protein Disorder Prediction Using Jumping Motifs from Torsion Angles Dynamics in Ramachandran Plots</a>. BIOSTEC- BIOINFORMATICS 2018. **Best paper student award**.
 
+<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+
+- A. M. Sabogal-Guaqueta, J. G. Villamil, **J.D. Arias-Londoño** and G.P. Cardona-Gómez. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00989/full" target="_blank">Inverse Phosphatidylcholine/Phosphatidylinositol Levels as Peripheral Biomarkers and Phosphatidylcholine/Lysophosphatidylethanolamine-Phosphatidylserine as a Central Indicator of Postischemic Cognitive Impairment in Rats</a>. Frontiers in Neuroscience, section Neurodegeneration, vol. 12, Paper 989, 2018.
+
+- A. M. Sabogal-Guáqueta, R. Posada-Duque, Natalie Charlotte Cortes, **J.D. Arias-Londoño**, G.P. Cardona-Gómez. <a href="https://www.sciencedirect.com/science/article/pii/S0028390818301709" target="_blank">Changes in the hippocampal and peripheral phospholipid profiles are associated with neurodegeneration hallmarks in a long-term global cerebral ischemia model: Attenuation by Linalool</a>. Neuropharmacology, vol. 135, pp 555-571, 2018.
+
+- J.G. Villamil-Ortiz, A. Barrera-Ocampo, **J.D. Arias-Londoño**, A. Villegas, F. Lopera, G.P. Cardona-Gómez. <a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad170554" target="_blank">Differential Pattern of Phospholipid Profile in the Temporal Cortex from E280A-Familiar and Sporadic Alzheimer’s Disease Brains</a>. Journal of Alzheimer's Disease, vol. 61, no. 1, pp 209-219, 2018.
+
 2017
 ----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - G. Melo-Acosta, F. Duitama-Muñoz, and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/8088206" target="_blank">Fraud Detection in Big Data using Supervised and Semi-Supervised Learning Techniques</a>. COLCOM 2017.
 
@@ -185,7 +209,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2016
 ----
 
-- J.G. Villamil-Ortiz, A. Barrera-Ocampo, D. Piedrahita, C.M. Velásquez-Rodríguez, **J.D. Arias-Londoño** and G.P. Cardona-Gómez. <a href="https://www.frontiersin.org/articles/10.3389/fncel.2016.00260/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cellular_Neuroscience&id=204795" target="_blank">BACE1 RNAi Restores the Composition of Phosphatidylethanolamine-Derivates Related to Memory Improvement in Aged 3xTg-AD Mice</a>. Front. Cell. Neurosci. 10:260. 2016.
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - G. Zapata-Zapata, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, J.R. Orozco-Arroyave. <a href="https://revistas.udea.edu.co/index.php/ingenieria/article/view/22931" target="_blank">On-line signature verification using Gaussian Mixture Models and small-sample learning strategies</a>. Redin, no. 79, pp 84-97, 2016.
 
@@ -195,8 +219,14 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - J.R. Orozco-Arroyave, J.C. Vásquez-Correa, F. Höning, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, S. Skodda, J. Rusz, E. Noth. <a href="https://ieeexplore.ieee.org/document/7472927" target="_blank">Towards an automatic monitoring of the neurological state of Parkinson's patients from speech</a>. ICASSP, 2016.
 
+<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+
+- J.G. Villamil-Ortiz, A. Barrera-Ocampo, D. Piedrahita, C.M. Velásquez-Rodríguez, **J.D. Arias-Londoño** and G.P. Cardona-Gómez. <a href="https://www.frontiersin.org/articles/10.3389/fncel.2016.00260/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cellular_Neuroscience&id=204795" target="_blank">BACE1 RNAi Restores the Composition of Phosphatidylethanolamine-Derivates Related to Memory Improvement in Aged 3xTg-AD Mice</a>. Front. Cell. Neurosci. 10:260. 2016.
+
 2015
 ----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.mdpi.com/1099-4300/17/6/3595" target="_blank">Entropies from Markov models as complexity measures of embedded attractors</a>. Entropy, vol. 17, no. 6, pp 3595-3620, 2015.[<a href="https://github.com/jdariasl/ME" target="_blank">GitHub</a>]
 
@@ -213,6 +243,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2014
 ----
 
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
+
 - J.C. Vasquez-Correa, J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, E. Nöth. <a href="https://revistas.udea.edu.co/index.php/ingenieria/article/view/327870" target="_blank">New computer aided device for real time analysis  of speech of people with Parkinson’s disease </a>. Redin, vol. 1, no. 72, pp 87-103, 2014.
 
 - J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, M.C. González-Rátiva, Elmar Nöth. <a href="https://aclanthology.org/L14-1549/" target="_blank">New Spanish speech corpus database for the analysis Parkinson’s disease </a>. Ninth International Conference on Language Resources and Evaluation, 2014.
@@ -223,6 +255,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 2013
 ----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, S. Murillo-Rendón, G.Castellanos-Domínguez, J.F. Garcés. <a href="https://link.springer.com/article/10.1007/s12559-012-9166-z" target="_blank">Nonlinear Dynamics for Hypernasality Detection in Spanish Vowels and Words</a>. Cognitive Computation, vol. 5, no. 4, pp 448-457, 2013.
 
@@ -237,6 +271,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2012
 ----
 
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
+
 - V. Osma-Ruiz, J.I. Godino-Llorente, N. Sáenz-Lechón, J.M. Gutiérrez-Arriola, **J.D. Arias-Londoño**, R. Fraile, B. Scola-Yurrita. <a href="https://www.sciencedirect.com/science/article/pii/S1746809411001066" target="_blank">Towards collaborative work among speech therapists, phonatricians, and ENT professionals. Analysis of the impact of ciphering techniques in the performance of an integrated tool for the diagnosis of voice disorders </a>. Biomedical Signal Processing & Control, vol. 7, no. 1, pp 27-36, 2012.
 
 - J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/OrozcoArroyave12-ADO.pdf" target="_blank">Automatic detection of hypernasal speech signals using nonlinear and entropy measurements </a>. 13th Annual Conference of the International Speech Communication Association, Interspeech 2012.
@@ -245,6 +281,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 2011
 ----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - **J.D. Arias-Londoño**, J.I. Godino-Llorente, M. Markaki, and Y. Stylianou. <a href="https://www.tandfonline.com/doi/full/10.3109/14015439.2010.528788?casa_token=AAoiaPJprGUAAAAA%3AgZvr1X89McnqYlyO3hjHaEV3T75wMQgGFGNjFqAjnEXp8GRsHfm6_gJUO6JeyhlTcC4DMwzm05deX6E" target="_blank">On combining information from modulation spectra and mel-frequency cepstral coefficients for automatic detection of pathological voices</a>. Logopedics Phoniatrics Vocology, vol. 36, no. 2, pp 60-69, 2011.
 
@@ -265,12 +303,16 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2010
 ----
 
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
+
 - **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz, and G. Castellanos-Domínguez. <a href="https://www.sciencedirect.com/science/article/pii/S0031320310001391" target="_blank">An improved method for voice pathology detection by means of a HMM-based feature space transformation</a>. Pattern Recognition, vol. 43, no. 9, pp 3100-3112, 2010.
 
 - M. Markaki, Y. Stylianou, **J.D. Arias-Londoño**, and J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/abstract/document/5495020" target="_blank">Dysphonia detection based on modulation spectral features and cepstral coefficients</a>. Proceedings of 35th IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP2010.
 
 2009
 ----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - **J.D. Arias-Londoño**, J.I. Godino-Llorente, J.A. Jaramillo-Garzón, and G. Castellanos-Domínguez. <a href="http://tesis.udea.edu.co/bitstream/10495/13364/1/JulianArias_2009_Classificationstochasticmodels.pdf" target="_blank">Dissimilarity-based classification for stochastic models of embedding spaces applied to voice pathology detection </a>. Rev. Fac. Ing. Univ. Antioquia, vol. 1, no. 50, pp 102-112, 2009.
 
@@ -287,10 +329,14 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2008
 ----
 
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
+
 - N. Sáenz-Lechón, V. Osma-Ruiz, J.I. Godino-Llorente, M. Blanco-Velasco, F. Cruz-Roldán, and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/4494380" target="_blank">Effects of audio compression in automatic detection of voice pathologies</a>. IEEE Transactions on Biomedical Engineering, vol. 55, no. 12, pp 2831-2835, 2008.
 
 2007
 ----
+
+<p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
 - J.A. Jaramillo-Garzón, **J.D. Arias-Londoño**, and G. Castellanos-Domínguez. Spanish: <a href="https://revistas.utp.edu.co/index.php/revistaciencia/article/view/4021" target="_blank">Método híbrido de sintonización para algoritmos genéticos a partir de regresión por vectores de soporte</a>. Scientia et Technica, vol. XIII, no. 37, 2007.
 
