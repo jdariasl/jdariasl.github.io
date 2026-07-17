@@ -7,21 +7,64 @@ author_profile: true
 
 You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ" target="_blank">my Google Scholar profile</a>.
 
+<style>
+	.area-legend {
+		margin: 1rem 0 1.5rem;
+		padding: 0.8rem 1rem;
+		border-left: 4px solid #3a3a3a;
+		background: #f7f8fa;
+		font-size: 0.95rem;
+	}
+
+	.area-tag {
+		display: inline-block;
+		margin-right: 0.45rem;
+		margin-bottom: 0.15rem;
+		padding: 0.1rem 0.5rem;
+		border-radius: 0.55rem;
+		font-size: 0.72rem;
+		letter-spacing: 0.02em;
+		font-weight: 700;
+		text-transform: uppercase;
+		vertical-align: middle;
+	}
+
+	.area-ai {
+		color: #0b4f6c;
+		background: #d9eef8;
+		border: 1px solid #9fcfe5;
+	}
+
+	.area-metabo {
+		color: #6a3c0a;
+		background: #fde8cf;
+		border: 1px solid #e8bc7e;
+	}
+</style>
+
+<div class="area-legend">
+	<strong>Research areas:</strong>
+	<span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span>
+	<span class="area-tag area-metabo">Metabolomics data analysis</span>
+</div>
+
 2026
 -----
 
-- S. Castaño-López, T.J. Lopera, V. Restrepo, L.F. Carbal, J.M. Ramírez-Mejía, A. Hernández, D. Gil, J.-C. Díaz, M. Manrique-Moreno, L. Barazzuol, R. Posada-Duque, M. Rojas, G. Vásquez, L. Corrales-Garcia, **J.D. Arias-Londoño**, J.C. Wolters, D. Castaño. <a href="https://doi.org/10.1016/j.jtauto.2026.100387" target="_blank">Aggrecan and polymeric immunoglobulin receptor in extracellular vesicles of patients with seropositive rheumatoid arthritis</a>. Journal of Translational Autoimmunity, vol. 13, 100387, 2026.
+- <span class="area-tag area-metabo">Metabolomics Collaboration</span> S. Castaño-López, T.J. Lopera, V. Restrepo, L.F. Carbal, J.M. Ramírez-Mejía, A. Hernández, D. Gil, J.-C. Díaz, M. Manrique-Moreno, L. Barazzuol, R. Posada-Duque, M. Rojas, G. Vásquez, L. Corrales-Garcia, **J.D. Arias-Londoño**, J.C. Wolters, D. Castaño. <a href="https://doi.org/10.1016/j.jtauto.2026.100387" target="_blank">Aggrecan and polymeric immunoglobulin receptor in extracellular vesicles of patients with seropositive rheumatoid arthritis</a>. Journal of Translational Autoimmunity, vol. 13, 100387, 2026.
 
-- J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340926002295" target="_blank">HUPA: a corpus of disordered and normophonic voices in Castilian Spanish</a>. Data in Brief, vol. 66, 112676, 2026. [<a href="https://github.com/BYO-UPM/HUPA_Database" target="_blank">GitHub</a>]
+- <span class="area-tag area-metabo">Metabolomics Collaboration</span> G.P. Cardona-Gómez, I.D. Salomón-Cruz, N.D. Galvis-Garrido, L.A. Lozano-Trujillo, J.P. Barbosa-Carvajal, S.C. Agudelo-Castrillon, J. Montesinos, T.D. Yun, E. Henao, Y. Quiroz, K. Kosik,  E. Schon, D. Larrea, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, J.D. Arias-Londoño, D. Aguillón, E. Area-Gómez. <a href="https://doi.org/10.21203/rs.3.rs-9357482/v1" target="_blank">Circulating lipids uncover early membrane disruption as a primary event preceding Alzheimer’s disease onset</a>. Research Square, pp.rs-3.rs-9357482, 2026.
 
-- H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]
+- <span class="area-tag area-ai">Signal Processing / AI</span> J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340926002295" target="_blank">HUPA: a corpus of disordered and normophonic voices in Castilian Spanish</a>. Data in Brief, vol. 66, 112676, 2026. [<a href="https://github.com/BYO-UPM/HUPA_Database" target="_blank">GitHub</a>]
+
+- <span class="area-tag area-ai">Signal Processing / AI</span> H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]
 
 2025
 -----
 
-- J.I. Godino-Llorente, **J.D. Arias-Londoño**, M. Hasegawa-Johnson, H. Meng, S. Shattuck-Hufnagel. <a href="https://ieeexplore.ieee.org/abstract/document/11275989" target="_blank">Guest Editorial: Modeling and Processing Language and Speech in Neurodegenerative Disorders</a>. IEEE Journal of Selected Topics in Signal Processing, 19(5), 696-699, 2025.
+- <span class="area-tag area-ai">Signal Processing / AI</span> J.I. Godino-Llorente, **J.D. Arias-Londoño**, M. Hasegawa-Johnson, H. Meng, S. Shattuck-Hufnagel. <a href="https://ieeexplore.ieee.org/abstract/document/11275989" target="_blank">Guest Editorial: Modeling and Processing Language and Speech in Neurodegenerative Disorders</a>. IEEE Journal of Selected Topics in Signal Processing, 19(5), 696-699, 2025.
 
-- G.P. Cardona-Gómez, I.D. Salomón-Cruz, L.A. Lozano-Trujillo, N.D. Galvis-Garrido, S.C. Agudelo-Castrillon, J.P. Barbosa-Carvajal, M. Hoyos Ríos, L.M. Trujillo-Chacón, E. Henao, G. Javier Fernandez, E. Osorio, Y.T. Quiroz, E. Schon, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, **J.D. Arias-Londoño**, D. Aguillón, E. Area-Gómez. <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690392v1.abstract" target="_blank">Serum Lipidome as an Early Peripheral Indicator in Familial Alzheimer’s Disease</a>. bioRxiv, doi: [https://doi.org/10.1101/2025.11.25.690392](https://doi.org/10.1101/2025.11.25.690392), 2025.
+- <span class="area-tag area-metabo">Metabolomics Collaboration</span> G.P. Cardona-Gómez, I.D. Salomón-Cruz, L.A. Lozano-Trujillo, N.D. Galvis-Garrido, S.C. Agudelo-Castrillon, J.P. Barbosa-Carvajal, M. Hoyos Ríos, L.M. Trujillo-Chacón, E. Henao, G. Javier Fernandez, E. Osorio, Y.T. Quiroz, E. Schon, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, **J.D. Arias-Londoño**, D. Aguillón, E. Area-Gómez. <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690392v1.abstract" target="_blank">Serum Lipidome as an Early Peripheral Indicator in Familial Alzheimer’s Disease</a>. bioRxiv, doi: [https://doi.org/10.1101/2025.11.25.690392](https://doi.org/10.1101/2025.11.25.690392), 2025.
 
 - A. Moure-Prado, A. Guerrero-López, , J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, vol. 13, pp 178160 - 178175, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
 
