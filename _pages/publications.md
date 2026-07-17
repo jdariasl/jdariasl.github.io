@@ -51,7 +51,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]
 
-<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+<p><span class="area-tag area-metabo">Metabolomics and Lipidomics</span></p>
 
 - S. Castaño-López, T.J. Lopera, V. Restrepo, L.F. Carbal, J.M. Ramírez-Mejía, A. Hernández, D. Gil, J.-C. Díaz, M. Manrique-Moreno, L. Barazzuol, R. Posada-Duque, M. Rojas, G. Vásquez, L. Corrales-Garcia, **J.D. Arias-Londoño**, J.C. Wolters, D. Castaño. <a href="https://doi.org/10.1016/j.jtauto.2026.100387" target="_blank">Aggrecan and polymeric immunoglobulin receptor in extracellular vesicles of patients with seropositive rheumatoid arthritis</a>. Journal of Translational Autoimmunity, vol. 13, 100387, 2026.
 
@@ -76,7 +76,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - G. Andrade-Miranda, K. Chatzipapas, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340925001088" target="_blank">GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation</a>. Data in Brief, vol. 59, 111376, 2025. [<a href="https://github.com/BYO-UPM/GIRAFE" target="_blanck">GitHub</a>]
 
-<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+<p><span class="area-tag area-metabo">Metabolomics and Lipidomics</span></p>
 
 - G.P. Cardona-Gómez, I.D. Salomón-Cruz, L.A. Lozano-Trujillo, N.D. Galvis-Garrido, S.C. Agudelo-Castrillon, J.P. Barbosa-Carvajal, M. Hoyos Ríos, L.M. Trujillo-Chacón, E. Henao, G. Javier Fernandez, E. Osorio, Y.T. Quiroz, E. Schon, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, **J.D. Arias-Londoño**, D. Aguillón, E. Area-Gómez. <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690392v1.abstract" target="_blank">Serum Lipidome as an Early Peripheral Indicator in Familial Alzheimer’s Disease</a>. bioRxiv, doi: [https://doi.org/10.1101/2025.11.25.690392](https://doi.org/10.1101/2025.11.25.690392), 2025.
 
@@ -118,7 +118,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - C. Bustamante, G. Castrillón, **J.D. Arias-Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-031-29783-0_2" target="_blank">Classification of Focused Perturbations Using Time-Variant Functional Connectivity with rs-fmri</a>. In: Orjuela-Cañón, A.D., Lopez, J., Arias-Londoño, J.D., Figueroa-García, J.C. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 1746. Springer, Cham., 2023.
 
-<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+<p><span class="area-tag area-metabo">Metabolomics and Lipidomics</span></p>
 
 - F.A. Bedoya-Guzmán, M. Pacheco-Herrero, I.D. Salomon-Cruz, A.M. Barrera-Sandoval, J.A. Gutierrez Vargas, J.G.  Villamil-Ortiz, C.A. Villegas Lanau, **J.D. Arias- Londoño**, E. Area.Gomez, G.P. Cardona-Gomez. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2023.1194203/full" target="_blank">BACE1 and SCD1 are associated with neurodegeneration</a>. Front. Aging Neurosci. 15:1194203, 2023.
 
@@ -153,7 +153,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - A. Santana-Velásquez, J. Freddy-Duitama and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/9247889" target="_blank">Automatic classification of Diagnosis-Related Groups using ANN and XGBoost models</a>. 3rd IEEE Colombian Conference on Applications in Computational Intelligence - COLCACI 2020.
 
-<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+<p><span class="area-tag area-metabo">Metabolomics and Lipidomics</span></p>
 
 - J. Villar-Vesga, J. Henao-Restrepo, D. C Voshart, D. Aguillón, A. Villegas, D. Castaño, **J.D. Arias-Londoño**, I.S. Zuhorn, L. Ribosvki, L. Barazzuol, G. P. Cardona-Gómez, R. A. Posada-Duque. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2020.587989/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Aging_Neuroscience&id=587989" target="_blank">Differential profile of systemic extracellular vesicles from sporadic and familiar Alzheimer’s disease leads to neuroglial and endothelial cell degeneration</a>. Frontiers in Aging Neuroscience. 12:587989. 2020.
 
@@ -187,7 +187,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - J. Uirbe, **J.D. Arias-Londoño**, and A. Perera-Lluna. <a href="https://www.scitepress.org/Papers/2018/66479/66479.pdf" target="_blank">Protein Disorder Prediction Using Jumping Motifs from Torsion Angles Dynamics in Ramachandran Plots</a>. BIOSTEC- BIOINFORMATICS 2018. **Best paper student award**.
 
-<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+<p><span class="area-tag area-metabo">Metabolomics and Lipidomics</span></p>
 
 - A. M. Sabogal-Guaqueta, J. G. Villamil, **J.D. Arias-Londoño** and G.P. Cardona-Gómez. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00989/full" target="_blank">Inverse Phosphatidylcholine/Phosphatidylinositol Levels as Peripheral Biomarkers and Phosphatidylcholine/Lysophosphatidylethanolamine-Phosphatidylserine as a Central Indicator of Postischemic Cognitive Impairment in Rats</a>. Frontiers in Neuroscience, section Neurodegeneration, vol. 12, Paper 989, 2018.
 
@@ -219,7 +219,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - J.R. Orozco-Arroyave, J.C. Vásquez-Correa, F. Höning, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, S. Skodda, J. Rusz, E. Noth. <a href="https://ieeexplore.ieee.org/document/7472927" target="_blank">Towards an automatic monitoring of the neurological state of Parkinson's patients from speech</a>. ICASSP, 2016.
 
-<p><span class="area-tag area-metabo">Metabolomics data analysis</span></p>
+<p><span class="area-tag area-metabo">Metabolomics and Lipidomics</span></p>
 
 - J.G. Villamil-Ortiz, A. Barrera-Ocampo, D. Piedrahita, C.M. Velásquez-Rodríguez, **J.D. Arias-Londoño** and G.P. Cardona-Gómez. <a href="https://www.frontiersin.org/articles/10.3389/fncel.2016.00260/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cellular_Neuroscience&id=204795" target="_blank">BACE1 RNAi Restores the Composition of Phosphatidylethanolamine-Derivates Related to Memory Improvement in Aged 3xTg-AD Mice</a>. Front. Cell. Neurosci. 10:260. 2016.
 
