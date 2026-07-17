@@ -36,9 +36,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 	}
 
 	.area-metabo {
-		color: #6a3c0a;
-		background: #fde8cf;
-		border: 1px solid #e8bc7e;
+		color: #2f343a;
+		background: #eceff2;
+		border: 1px solid #b8c0c8;
 	}
 </style>
 
