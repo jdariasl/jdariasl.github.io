@@ -55,7 +55,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - S. Castaño-López, T.J. Lopera, V. Restrepo, L.F. Carbal, J.M. Ramírez-Mejía, A. Hernández, D. Gil, J.-C. Díaz, M. Manrique-Moreno, L. Barazzuol, R. Posada-Duque, M. Rojas, G. Vásquez, L. Corrales-Garcia, **J.D. Arias-Londoño**, J.C. Wolters, D. Castaño. <a href="https://doi.org/10.1016/j.jtauto.2026.100387" target="_blank">Aggrecan and polymeric immunoglobulin receptor in extracellular vesicles of patients with seropositive rheumatoid arthritis</a>. Journal of Translational Autoimmunity, vol. 13, 100387, 2026.
 
-- G.P. Cardona-Gómez, I.D. Salomón-Cruz, N.D. Galvis-Garrido, L.A. Lozano-Trujillo, J.P. Barbosa-Carvajal, S.C. Agudelo-Castrillon, J. Montesinos, T.D. Yun, E. Henao, Y. Quiroz, K. Kosik,  E. Schon, D. Larrea, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, J.D. Arias-Londoño, D. Aguillón, E. Area-Gómez. <a href="https://doi.org/10.21203/rs.3.rs-9357482/v1" target="_blank">Circulating lipids uncover early membrane disruption as a primary event preceding Alzheimer’s disease onset</a>. Research Square, pp.rs-3.rs-9357482, 2026.
+- G.P. Cardona-Gómez, I.D. Salomón-Cruz, N.D. Galvis-Garrido, L.A. Lozano-Trujillo, J.P. Barbosa-Carvajal, S.C. Agudelo-Castrillon, J. Montesinos, T.D. Yun, E. Henao, Y. Quiroz, K. Kosik,  E. Schon, D. Larrea, F. Lopera, A. Villegas, D.C. Aguirre-Acevedo, **J.D. Arias-Londoño**, D. Aguillón, E. Area-Gómez. <a href="https://doi.org/10.21203/rs.3.rs-9357482/v1" target="_blank">Circulating lipids uncover early membrane disruption as a primary event preceding Alzheimer’s disease onset</a>. Research Square, pp.rs-3.rs-9357482, 2026.
 
 2025
 -----
@@ -64,7 +64,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 - J.I. Godino-Llorente, **J.D. Arias-Londoño**, M. Hasegawa-Johnson, H. Meng, S. Shattuck-Hufnagel. <a href="https://ieeexplore.ieee.org/abstract/document/11275989" target="_blank">Guest Editorial: Modeling and Processing Language and Speech in Neurodegenerative Disorders</a>. IEEE Journal of Selected Topics in Signal Processing, 19(5), 696-699, 2025.
 
-- A. Moure-Prado, A. Guerrero-López, , J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, vol. 13, pp 178160 - 178175, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
+- A. Moure-Prado, A. Guerrero-López, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/11153418" target="_blank">Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach</a>. IEEE Access, vol. 13, pp 178160 - 178175, 2025.[<a href="https://github.com/BYO-UPM/CT-COVID" target="_blank">GitHub</a>]
 
 - M.F. Alcala-Durand, J.C. Puerta-Acevedo, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2509.01326" target="_blank">Automatic Screening of Parkinson's Disease from Visual Explorations</a>. arXiv:2509.01326, 2025.
 
