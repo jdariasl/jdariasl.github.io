@@ -13,7 +13,7 @@ redirect_from:
 About me
 ======
 
-<div style="text-align: justify">I am a Full Professor of Computer Science at the Universidad de Antioquia, Medellín, Colombia. My fields of expertise are in the areas of artificial intelligence, machine learning and signal processing, mainly applied to healthcare and computer-aided diagnostic system. I teach basic and advanced courses in Machine Learning, Deep Learning and Probabilistic Machine/Deep learning.</div>
+<div style="text-align: justify">I am a Full Professor of Computer Science and head of the [Intelligent Information Systems Lab](https://in2labudea.github.io/) at the Universidad de Antioquia, Medellín, Colombia. My fields of expertise are in the areas of artificial intelligence, machine learning and signal processing, mainly applied to healthcare and computer-aided diagnostic system. I teach basic and advanced courses in Machine Learning, Deep Learning and Probabilistic Machine/Deep learning.</div>
 
 \
 &nbsp;
