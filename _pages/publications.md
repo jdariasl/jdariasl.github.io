@@ -47,6 +47,8 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 
 <p><span class="area-tag area-ai">Signal Processing / Machine Learning / AI</span></p>
 
+- A. Guerrero-López, **J.D. Arias-Londoño**, S. Shattuck-Hufnagel, J. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S095219762602662X" target="_blank">A model for the automatic phonemic grouping of Parkinsonian speech</a>. Engineering Applications of Artificial Intelligence, vol 184, Part2, 116378, 2026. [<a href="https://github.com/BYO-UPM/MARTA" target="_blanck">GitHub</a>]
+
 - J.C. Puerta-Acevedo, M.F. Alcalá-Durand, J. Mendes-Laureano, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S2352340926002295" target="_blank">HUPA: a corpus of disordered and normophonic voices in Castilian Spanish</a>. Data in Brief, vol. 66, 112676, 2026. [<a href="https://github.com/BYO-UPM/HUPA_Database" target="_blank">GitHub</a>]
 
 - H. Xu, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://arxiv.org/abs/2602.11973" target="_blank">Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging</a>. arXiv:2602.11973, 2026. [<a href="https://github.com/BYO-UPM/CUB-Loss." target="_blanck">GitHub</a>]

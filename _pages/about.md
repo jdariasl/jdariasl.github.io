@@ -21,11 +21,13 @@ About me
 News
 ======
 
+- 01/10/2026 I have been invited as keynote speaker to the twelfth edition of the [IEEE Latin American Conference on Computational Intelligence - LACCI 2026](hhttps://lacci2026.up.edu.pe/) held at the Universidad del Pacífico, Lima, Perú, between November 3th-6th, 2026. Title of the talk: "Toward trustworthy AI systems in the biomedical context. Contributions to fairness, explainability, and uncertainty estimation."
+
 - 19/02/2026 I will serve as co-chair of the structured session "Voice, Speech and Language in Neurodegenerative Diseases" at [Forum Acusticum 2026 (FA2026)](https://forum-acusticum.org/fa2026/), organized by the Austrian Acoustical Association. The conference will be held in Graz, Austria, from September 8 to 12, 2026. Please visit the conference website for information on important dates and other areas within the scope of the forum.
 
 - 29/01/2026 I was accepted in working groups 1, 2 and 4 of COST action [CA24128 - European Network to Advance the Development and Implementation of Vocal Biomarkers (eVoiceNet)](https://www.cost.eu/actions/CA24128/).
 
-- 27/08/2025 I was inveted as keynote speaker to the eighth edition of the [IEEE Colombian Conference on Applications in Computational Intelligence - ColCACI2025](https://2025.ieee-colcaci.org/) held at the Universidad del Quindío, Armenia, Colombia, between August 25th-27th, 2025. Title of the talk: "From Explainability to Trustworthiness in the Application of AI to Biomedical Contexts."
+- 27/08/2025 I was invited as keynote speaker to the eighth edition of the [IEEE Colombian Conference on Applications in Computational Intelligence - ColCACI2025](https://2025.ieee-colcaci.org/) held at the Universidad del Quindío, Armenia, Colombia, between August 25th-27th, 2025. Title of the talk: "From Explainability to Trustworthiness in the Application of AI to Biomedical Contexts."
 
 - 1/07/2025. The special issue proposal on ["Modeling and Processing Language and Speech in Neurodegenerative Disorders"](https://signalprocessingsociety.org/events/ieee-jstsp-special-issue-modelling-and-processing-language-and-speech-neurodegenerative) was accepted by the IEEE Journal of Selected Topics in Signal Processing. I am part of the guest editors along with Prof. Stefanie Shattuck-Hufnagel from Massachusetts Institute of Technology, MA, USA, Prof. Juan I. Godino-Llorente from Universidad Politécnica de Madrid, Madrid, Spain,Prof. Mark Hasegawa-Johnson from University of Illinois, IL, USA and Prof. Helen Meng from The Chinese University of Hong Kong, NT, Hong Kong.
 
