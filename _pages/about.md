@@ -21,7 +21,7 @@ About me
 News
 ======
 
-- 01/10/2026 I have been invited as keynote speaker to the twelfth edition of the [IEEE Latin American Conference on Computational Intelligence - LACCI 2026](hhttps://lacci2026.up.edu.pe/) held at the Universidad del Pacífico, Lima, Perú, between November 3th-6th, 2026. Title of the talk: "Toward trustworthy AI systems in the biomedical context. Contributions to fairness, explainability, and uncertainty estimation."
+- 01/10/2026 I have been invited as keynote speaker to the twelfth edition of the [IEEE Latin American Conference on Computational Intelligence - LACCI 2026](hhttps://lacci2026.up.edu.pe/), that will be held at the Universidad del Pacífico, Lima, Perú, between November 3th-6th, 2026. Title of the talk: "Toward trustworthy AI systems in the biomedical context. Contributions to fairness, explainability, and uncertainty estimation."
 
 - 19/02/2026 I will serve as co-chair of the structured session "Voice, Speech and Language in Neurodegenerative Diseases" at [Forum Acusticum 2026 (FA2026)](https://forum-acusticum.org/fa2026/), organized by the Austrian Acoustical Association. The conference will be held in Graz, Austria, from September 8 to 12, 2026. Please visit the conference website for information on important dates and other areas within the scope of the forum.
 
