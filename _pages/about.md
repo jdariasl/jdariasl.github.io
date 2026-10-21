@@ -21,11 +21,16 @@ About me
 News
 ======
 
+- 21/10/2026 I'm pleased to announce that I'm co-editing the Special Issue "Artificial Intelligence in Biomedical Science: Advances and Applications", which will be published in Applied Sciences (MDPI), together with Alvaro David Orjuela-Cañón (Universidad del Rosario, Bogotá, Colombia) and Hugo F. Posada-Quintero (University of Connecticut, Storrs, CT, USA).[Explore the Special Issue and submit your manuscript](https://www.mdpi.com/journal/applsci/special_issues/087W7D66P6)
+
 - 01/10/2026 I have been invited as keynote speaker to the twelfth edition of the [IEEE Latin American Conference on Computational Intelligence - LACCI 2026](hhttps://lacci2026.up.edu.pe/), that will be held at the Universidad del Pacífico, Lima, Perú, between November 3th-6th, 2026. Title of the talk: "Toward trustworthy AI systems in the biomedical context. Contributions to fairness, explainability, and uncertainty estimation."
 
 - 19/02/2026 I will serve as co-chair of the structured session "Voice, Speech and Language in Neurodegenerative Diseases" at [Forum Acusticum 2026 (FA2026)](https://forum-acusticum.org/fa2026/), organized by the Austrian Acoustical Association. The conference will be held in Graz, Austria, from September 8 to 12, 2026. Please visit the conference website for information on important dates and other areas within the scope of the forum.
 
 - 29/01/2026 I was accepted in working groups 1, 2 and 4 of COST action [CA24128 - European Network to Advance the Development and Implementation of Vocal Biomarkers (eVoiceNet)](https://www.cost.eu/actions/CA24128/).
+
+- 15/10/2025 Our paper, "A voice and speech corpus of patients who underwent upper airway surgery in pre- and post-operative states," received the Best Paper Award from SEORL (Spanish Society of Otorhinolaryngology and Head and Neck Surgery).
+Congratulations to everyone involved in this work (Estefanía Hernández García, Alejandro Guerrero López, Juan I. Godino-Llorente), and many thanks to SEORL for this recognition! [Award ceremony](https://www.instagram.com/p/DQPYHPxjNmO/?img_index=4). [Paper](https://www.nature.com/articles/s41597-024-03540-5).
 
 - 27/08/2025 I was invited as keynote speaker to the eighth edition of the [IEEE Colombian Conference on Applications in Computational Intelligence - ColCACI2025](https://2025.ieee-colcaci.org/) held at the Universidad del Quindío, Armenia, Colombia, between August 25th-27th, 2025. Title of the talk: "From Explainability to Trustworthiness in the Application of AI to Biomedical Contexts."
 
